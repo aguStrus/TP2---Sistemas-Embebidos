@@ -160,14 +160,58 @@ Discarded input sections
  .group         0x00000000        0xc agus/TP2/out/agus/TP2/src/TP2.o
  .group         0x00000000        0xc agus/TP2/out/agus/TP2/src/TP2.o
  .group         0x00000000        0xc agus/TP2/out/agus/TP2/src/TP2.o
- .group         0x00000000        0xc agus/TP2/out/agus/TP2/src/TP2.o
  .text          0x00000000        0x0 agus/TP2/out/agus/TP2/src/TP2.o
  .data          0x00000000        0x0 agus/TP2/out/agus/TP2/src/TP2.o
  .bss           0x00000000        0x0 agus/TP2/out/agus/TP2/src/TP2.o
- .rodata.false  0x00000000        0x4 agus/TP2/out/agus/TP2/src/TP2.o
- .rodata.myGpioPinInit
-                0x00000000       0xe6 agus/TP2/out/agus/TP2/src/TP2.o
- .rodata.true   0x00000000        0x4 agus/TP2/out/agus/TP2/src/TP2.o
+ .text.myDelay  0x00000000       0x16 agus/TP2/out/agus/TP2/src/TP2.o
+ .group         0x00000000        0xc agus/TP2/out/agus/TP2/src/gpio.o
+ .group         0x00000000        0xc agus/TP2/out/agus/TP2/src/gpio.o
+ .group         0x00000000        0xc agus/TP2/out/agus/TP2/src/gpio.o
+ .group         0x00000000        0xc agus/TP2/out/agus/TP2/src/gpio.o
+ .group         0x00000000        0xc agus/TP2/out/agus/TP2/src/gpio.o
+ .group         0x00000000        0xc agus/TP2/out/agus/TP2/src/gpio.o
+ .group         0x00000000        0xc agus/TP2/out/agus/TP2/src/gpio.o
+ .group         0x00000000        0xc agus/TP2/out/agus/TP2/src/gpio.o
+ .group         0x00000000        0xc agus/TP2/out/agus/TP2/src/gpio.o
+ .group         0x00000000        0xc agus/TP2/out/agus/TP2/src/gpio.o
+ .group         0x00000000        0xc agus/TP2/out/agus/TP2/src/gpio.o
+ .group         0x00000000        0xc agus/TP2/out/agus/TP2/src/gpio.o
+ .group         0x00000000        0xc agus/TP2/out/agus/TP2/src/gpio.o
+ .group         0x00000000        0xc agus/TP2/out/agus/TP2/src/gpio.o
+ .group         0x00000000        0xc agus/TP2/out/agus/TP2/src/gpio.o
+ .group         0x00000000        0xc agus/TP2/out/agus/TP2/src/gpio.o
+ .group         0x00000000        0xc agus/TP2/out/agus/TP2/src/gpio.o
+ .group         0x00000000        0xc agus/TP2/out/agus/TP2/src/gpio.o
+ .group         0x00000000        0xc agus/TP2/out/agus/TP2/src/gpio.o
+ .group         0x00000000        0xc agus/TP2/out/agus/TP2/src/gpio.o
+ .group         0x00000000        0xc agus/TP2/out/agus/TP2/src/gpio.o
+ .group         0x00000000        0xc agus/TP2/out/agus/TP2/src/gpio.o
+ .group         0x00000000        0xc agus/TP2/out/agus/TP2/src/gpio.o
+ .group         0x00000000        0xc agus/TP2/out/agus/TP2/src/gpio.o
+ .group         0x00000000        0xc agus/TP2/out/agus/TP2/src/gpio.o
+ .group         0x00000000        0xc agus/TP2/out/agus/TP2/src/gpio.o
+ .group         0x00000000        0xc agus/TP2/out/agus/TP2/src/gpio.o
+ .group         0x00000000        0xc agus/TP2/out/agus/TP2/src/gpio.o
+ .group         0x00000000        0xc agus/TP2/out/agus/TP2/src/gpio.o
+ .group         0x00000000        0xc agus/TP2/out/agus/TP2/src/gpio.o
+ .group         0x00000000        0xc agus/TP2/out/agus/TP2/src/gpio.o
+ .group         0x00000000        0xc agus/TP2/out/agus/TP2/src/gpio.o
+ .group         0x00000000        0xc agus/TP2/out/agus/TP2/src/gpio.o
+ .group         0x00000000        0xc agus/TP2/out/agus/TP2/src/gpio.o
+ .group         0x00000000        0xc agus/TP2/out/agus/TP2/src/gpio.o
+ .group         0x00000000        0xc agus/TP2/out/agus/TP2/src/gpio.o
+ .group         0x00000000        0xc agus/TP2/out/agus/TP2/src/gpio.o
+ .group         0x00000000        0xc agus/TP2/out/agus/TP2/src/gpio.o
+ .group         0x00000000        0xc agus/TP2/out/agus/TP2/src/gpio.o
+ .group         0x00000000        0xc agus/TP2/out/agus/TP2/src/gpio.o
+ .group         0x00000000        0xc agus/TP2/out/agus/TP2/src/gpio.o
+ .group         0x00000000        0xc agus/TP2/out/agus/TP2/src/gpio.o
+ .group         0x00000000        0xc agus/TP2/out/agus/TP2/src/gpio.o
+ .group         0x00000000        0xc agus/TP2/out/agus/TP2/src/gpio.o
+ .group         0x00000000        0xc agus/TP2/out/agus/TP2/src/gpio.o
+ .group         0x00000000        0xc agus/TP2/out/agus/TP2/src/gpio.o
+ .group         0x00000000        0xc agus/TP2/out/agus/TP2/src/gpio.o
+ .group         0x00000000        0xc agus/TP2/out/agus/TP2/src/gpio.o
  .group         0x00000000        0xc agus/TP2/out/agus/TP2/src/gpio.o
  .group         0x00000000        0xc agus/TP2/out/agus/TP2/src/gpio.o
  .group         0x00000000        0xc agus/TP2/out/agus/TP2/src/gpio.o
@@ -179,19 +223,6 @@ Discarded input sections
  .text          0x00000000        0x0 agus/TP2/out/agus/TP2/src/gpio.o
  .data          0x00000000        0x0 agus/TP2/out/agus/TP2/src/gpio.o
  .bss           0x00000000        0x0 agus/TP2/out/agus/TP2/src/gpio.o
- .text.myPin2Conf
-                0x00000000       0x18 agus/TP2/out/agus/TP2/src/gpio.o
- .text.myGpioInit
-                0x00000000       0x48 agus/TP2/out/agus/TP2/src/gpio.o
- .rodata.myGpioPinInit
-                0x00000000       0xe6 agus/TP2/out/agus/TP2/src/gpio.o
- .debug_info    0x00000000      0x2e7 agus/TP2/out/agus/TP2/src/gpio.o
- .debug_abbrev  0x00000000      0x135 agus/TP2/out/agus/TP2/src/gpio.o
- .debug_loc     0x00000000       0x6f agus/TP2/out/agus/TP2/src/gpio.o
- .debug_aranges
-                0x00000000       0x28 agus/TP2/out/agus/TP2/src/gpio.o
- .debug_ranges  0x00000000       0x18 agus/TP2/out/agus/TP2/src/gpio.o
- .debug_macro   0x00000000       0x72 agus/TP2/out/agus/TP2/src/gpio.o
  .debug_macro   0x00000000      0xab4 agus/TP2/out/agus/TP2/src/gpio.o
  .debug_macro   0x00000000       0x22 agus/TP2/out/agus/TP2/src/gpio.o
  .debug_macro   0x00000000       0x56 agus/TP2/out/agus/TP2/src/gpio.o
@@ -199,13 +230,6 @@ Discarded input sections
  .debug_macro   0x00000000       0xef agus/TP2/out/agus/TP2/src/gpio.o
  .debug_macro   0x00000000       0x6a agus/TP2/out/agus/TP2/src/gpio.o
  .debug_macro   0x00000000      0x1df agus/TP2/out/agus/TP2/src/gpio.o
- .debug_macro   0x00000000       0x88 agus/TP2/out/agus/TP2/src/gpio.o
- .debug_line    0x00000000      0x29c agus/TP2/out/agus/TP2/src/gpio.o
- .debug_str     0x00000000     0x403a agus/TP2/out/agus/TP2/src/gpio.o
- .comment       0x00000000       0x69 agus/TP2/out/agus/TP2/src/gpio.o
- .debug_frame   0x00000000       0x40 agus/TP2/out/agus/TP2/src/gpio.o
- .ARM.attributes
-                0x00000000       0x34 agus/TP2/out/agus/TP2/src/gpio.o
  .group         0x00000000        0xc agus/TP2/out/libs/cmsis_core//src/armv7m_startup.o
  .text          0x00000000        0x0 agus/TP2/out/libs/cmsis_core//src/armv7m_startup.o
  .data          0x00000000        0x0 agus/TP2/out/libs/cmsis_core//src/armv7m_startup.o
@@ -415,12 +439,60 @@ Discarded input sections
  .data          0x00000000        0x0 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
  .bss           0x00000000        0x0 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
  .debug_macro   0x00000000      0xab4 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_macro   0x00000000       0x10 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
  .debug_macro   0x00000000       0x22 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
  .debug_macro   0x00000000       0x56 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
  .debug_macro   0x00000000       0x51 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
  .debug_macro   0x00000000       0xef agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
  .debug_macro   0x00000000       0x6a agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
  .debug_macro   0x00000000      0x1df agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_macro   0x00000000       0x22 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_macro   0x00000000       0x73 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_macro   0x00000000       0x22 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_macro   0x00000000       0x1c agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_macro   0x00000000       0x22 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_macro   0x00000000       0xdf agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_macro   0x00000000     0x102d agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_macro   0x00000000      0x11f agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_macro   0x00000000      0x2c3 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_macro   0x00000000      0x112 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_macro   0x00000000       0x11 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_macro   0x00000000       0x2a agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_macro   0x00000000       0x16 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_macro   0x00000000      0x2e6 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_macro   0x00000000       0x82 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_macro   0x00000000      0x13d agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_macro   0x00000000      0x198 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_macro   0x00000000       0x34 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_macro   0x00000000       0x58 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_macro   0x00000000      0x236 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_macro   0x00000000      0x572 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_macro   0x00000000       0x16 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_macro   0x00000000      0x18a agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_macro   0x00000000       0x88 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_macro   0x00000000      0x1b9 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_macro   0x00000000      0x1da agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_macro   0x00000000       0x40 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_macro   0x00000000       0x1c agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_macro   0x00000000       0x2e agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_macro   0x00000000       0x2e agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_macro   0x00000000       0x22 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_macro   0x00000000      0x201 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_macro   0x00000000       0xe0 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_macro   0x00000000      0x34c agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_macro   0x00000000       0xdc agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_macro   0x00000000       0xc4 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_macro   0x00000000       0x8f agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_macro   0x00000000       0x94 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_macro   0x00000000       0xb8 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_macro   0x00000000       0x4c agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_macro   0x00000000       0x16 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_macro   0x00000000      0x328 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_macro   0x00000000       0x3a agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_macro   0x00000000       0xd0 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_macro   0x00000000       0x18 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_macro   0x00000000       0x22 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_macro   0x00000000       0x40 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
  .debug_macro   0x00000000       0x18 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
  .debug_macro   0x00000000       0x35 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
  .debug_macro   0x00000000       0x34 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
@@ -18823,7 +18895,7 @@ END GROUP
  *(.rodata.$Flash2*)
  *(.rodata.$MFlashB512*)
 
-.text           0x1a000000     0x1620
+.text           0x1a000000     0x1858
  FILL mask 0xff
                 0x1a000000                __vectors_start__ = ABSOLUTE (.)
  *(.isr_vector)
@@ -18836,19 +18908,19 @@ END GROUP
                 0x1a000114                . = ALIGN (0x4)
                 0x1a000114                __section_table_start = .
                 0x1a000114                __data_section_table = .
-                0x1a000114        0x4 LONG 0x1a00162c LOADADDR (.data)
+                0x1a000114        0x4 LONG 0x1a001864 LOADADDR (.data)
                 0x1a000118        0x4 LONG 0x10000000 ADDR (.data)
                 0x1a00011c        0x4 LONG 0x38 SIZEOF (.data)
-                0x1a000120        0x4 LONG 0x1a00162c LOADADDR (.data_RAM2)
+                0x1a000120        0x4 LONG 0x1a001864 LOADADDR (.data_RAM2)
                 0x1a000124        0x4 LONG 0x10080000 ADDR (.data_RAM2)
                 0x1a000128        0x4 LONG 0x0 SIZEOF (.data_RAM2)
-                0x1a00012c        0x4 LONG 0x1a00162c LOADADDR (.data_RAM3)
+                0x1a00012c        0x4 LONG 0x1a001864 LOADADDR (.data_RAM3)
                 0x1a000130        0x4 LONG 0x20000000 ADDR (.data_RAM3)
                 0x1a000134        0x4 LONG 0x0 SIZEOF (.data_RAM3)
-                0x1a000138        0x4 LONG 0x1a00162c LOADADDR (.data_RAM4)
+                0x1a000138        0x4 LONG 0x1a001864 LOADADDR (.data_RAM4)
                 0x1a00013c        0x4 LONG 0x20008000 ADDR (.data_RAM4)
                 0x1a000140        0x4 LONG 0x0 SIZEOF (.data_RAM4)
-                0x1a000144        0x4 LONG 0x1a00162c LOADADDR (.data_RAM5)
+                0x1a000144        0x4 LONG 0x1a001864 LOADADDR (.data_RAM5)
                 0x1a000148        0x4 LONG 0x2000c000 ADDR (.data_RAM5)
                 0x1a00014c        0x4 LONG 0x0 SIZEOF (.data_RAM5)
                 0x1a000150                __data_section_table_end = .
@@ -18939,247 +19011,263 @@ END GROUP
                 0x1a000300                PROVIDE (__CRP_WORD_END__ = .)
                 0x00000001                ASSERT (! ((__CRP_WORD_START__ == __CRP_WORD_END__)), Linker CRP Enabled, but no CRP_WORD provided within application)
  *(.text*)
- .text.main     0x1a000300        0x2 agus/TP2/out/agus/TP2/src/TP2.o
+ .text.main     0x1a000300       0x24 agus/TP2/out/agus/TP2/src/TP2.o
                 0x1a000300                main
+ .text.myPin2Conf
+                0x1a000324       0x18 agus/TP2/out/agus/TP2/src/gpio.o
+                0x1a000324                myPin2Conf
+ .text.getScuGpioMode
+                0x1a00033c       0x50 agus/TP2/out/agus/TP2/src/gpio.o
+                0x1a00033c                getScuGpioMode
+ .text.myGpioInit
+                0x1a00038c       0x88 agus/TP2/out/agus/TP2/src/gpio.o
+                0x1a00038c                myGpioInit
+ .text.myGpioWrite
+                0x1a000414       0x3e agus/TP2/out/agus/TP2/src/gpio.o
+                0x1a000414                myGpioWrite
  .text.initialise_monitor_handles
-                0x1a000302        0x2 agus/TP2/out/libs/cmsis_core//src/armv7m_startup.o
-                0x1a000302                initialise_monitor_handles
+                0x1a000452        0x2 agus/TP2/out/libs/cmsis_core//src/armv7m_startup.o
+                0x1a000452                initialise_monitor_handles
  .text.Reset_Handler
-                0x1a000304       0x88 agus/TP2/out/libs/cmsis_core//src/armv7m_startup.o
-                0x1a000304                Reset_Handler
- .text._fini    0x1a00038c        0x2 agus/TP2/out/libs/cmsis_core//src/armv7m_startup.o
-                0x1a00038c                _fini
- .text._init    0x1a00038e        0x2 agus/TP2/out/libs/cmsis_core//src/armv7m_startup.o
-                0x1a00038e                _init
+                0x1a000454       0x88 agus/TP2/out/libs/cmsis_core//src/armv7m_startup.o
+                0x1a000454                Reset_Handler
+ .text._fini    0x1a0004dc        0x2 agus/TP2/out/libs/cmsis_core//src/armv7m_startup.o
+                0x1a0004dc                _fini
+ .text._init    0x1a0004de        0x2 agus/TP2/out/libs/cmsis_core//src/armv7m_startup.o
+                0x1a0004de                _init
  .text.Board_SetupMuxing
-                0x1a000390       0x38 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
-                0x1a000390                Board_SetupMuxing
+                0x1a0004e0       0x38 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+                0x1a0004e0                Board_SetupMuxing
  .text.Board_SetupClocking
-                0x1a0003c8       0x6c agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
-                0x1a0003c8                Board_SetupClocking
+                0x1a000518       0x6c agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+                0x1a000518                Board_SetupClocking
  .text.Board_SystemInit
-                0x1a000434        0xc agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
-                0x1a000434                Board_SystemInit
+                0x1a000584        0xc agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+                0x1a000584                Board_SystemInit
  .text.Board_LED_Init
-                0x1a000440       0x44 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board.o
+                0x1a000590       0x44 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board.o
  .text.Board_TEC_Init
-                0x1a000484       0x40 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board.o
+                0x1a0005d4       0x40 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board.o
  .text.Board_GPIO_Init
-                0x1a0004c4       0x40 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board.o
+                0x1a000614       0x40 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board.o
  .text.Board_ADC_Init
-                0x1a000504       0x30 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board.o
+                0x1a000654       0x30 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board.o
  .text.Board_SPI_Init
-                0x1a000534       0x38 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board.o
+                0x1a000684       0x38 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board.o
  .text.Board_I2C_Init
-                0x1a00056c       0x24 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board.o
+                0x1a0006bc       0x24 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board.o
  .text.Board_Debug_Init
-                0x1a000590       0x24 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board.o
-                0x1a000590                Board_Debug_Init
+                0x1a0006e0       0x24 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board.o
+                0x1a0006e0                Board_Debug_Init
  .text.Board_Init
-                0x1a0005b4       0x30 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board.o
-                0x1a0005b4                Board_Init
+                0x1a000704       0x30 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board.o
+                0x1a000704                Board_Init
  .text.__stdio_init
-                0x1a0005e4        0x8 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board.o
-                0x1a0005e4                __stdio_init
+                0x1a000734        0x8 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board.o
+                0x1a000734                __stdio_init
  .text.Chip_SSP_GetClockIndex
-                0x1a0005ec       0x14 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/ssp_18xx_43xx.o
+                0x1a00073c       0x14 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/ssp_18xx_43xx.o
  .text.Chip_SSP_GetPeriphClockIndex
-                0x1a000600       0x18 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/ssp_18xx_43xx.o
+                0x1a000750       0x18 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/ssp_18xx_43xx.o
  .text.Chip_SSP_SetClockRate
-                0x1a000618       0x12 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/ssp_18xx_43xx.o
-                0x1a000618                Chip_SSP_SetClockRate
+                0x1a000768       0x12 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/ssp_18xx_43xx.o
+                0x1a000768                Chip_SSP_SetClockRate
  .text.Chip_SSP_SetBitRate
-                0x1a00062a       0x3e agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/ssp_18xx_43xx.o
-                0x1a00062a                Chip_SSP_SetBitRate
+                0x1a00077a       0x3e agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/ssp_18xx_43xx.o
+                0x1a00077a                Chip_SSP_SetBitRate
  .text.Chip_SSP_Init
-                0x1a000668       0x38 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/ssp_18xx_43xx.o
-                0x1a000668                Chip_SSP_Init
+                0x1a0007b8       0x38 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/ssp_18xx_43xx.o
+                0x1a0007b8                Chip_SSP_Init
  .text.Chip_I2C_EventHandler
-                0x1a0006a0       0x20 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/i2c_18xx_43xx.o
-                0x1a0006a0                Chip_I2C_EventHandler
+                0x1a0007f0       0x20 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/i2c_18xx_43xx.o
+                0x1a0007f0                Chip_I2C_EventHandler
  .text.Chip_I2C_Init
-                0x1a0006c0       0x24 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/i2c_18xx_43xx.o
-                0x1a0006c0                Chip_I2C_Init
+                0x1a000810       0x24 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/i2c_18xx_43xx.o
+                0x1a000810                Chip_I2C_Init
  .text.Chip_I2C_SetClockRate
-                0x1a0006e4       0x38 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/i2c_18xx_43xx.o
-                0x1a0006e4                Chip_I2C_SetClockRate
+                0x1a000834       0x38 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/i2c_18xx_43xx.o
+                0x1a000834                Chip_I2C_SetClockRate
  .text.Chip_GPIO_Init
-                0x1a00071c        0x2 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/gpio_18xx_43xx.o
-                0x1a00071c                Chip_GPIO_Init
- *fill*         0x1a00071e        0x2 ff
+                0x1a00086c        0x2 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/gpio_18xx_43xx.o
+                0x1a00086c                Chip_GPIO_Init
+ *fill*         0x1a00086e        0x2 ff
  .text.Chip_ADC_GetClockIndex
-                0x1a000720       0x14 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/adc_18xx_43xx.o
+                0x1a000870       0x14 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/adc_18xx_43xx.o
  .text.getClkDiv
-                0x1a000734       0x32 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/adc_18xx_43xx.o
- *fill*         0x1a000766        0x2 ff
+                0x1a000884       0x32 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/adc_18xx_43xx.o
+ *fill*         0x1a0008b6        0x2 ff
  .text.Chip_ADC_Init
-                0x1a000768       0x40 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/adc_18xx_43xx.o
-                0x1a000768                Chip_ADC_Init
+                0x1a0008b8       0x40 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/adc_18xx_43xx.o
+                0x1a0008b8                Chip_ADC_Init
  .text.Chip_ADC_SetSampleRate
-                0x1a0007a8       0x32 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/adc_18xx_43xx.o
-                0x1a0007a8                Chip_ADC_SetSampleRate
+                0x1a0008f8       0x32 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/adc_18xx_43xx.o
+                0x1a0008f8                Chip_ADC_SetSampleRate
  .text.Chip_ADC_SetResolution
-                0x1a0007da        0xc agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/adc_18xx_43xx.o
-                0x1a0007da                Chip_ADC_SetResolution
- *fill*         0x1a0007e6        0x2 ff
+                0x1a00092a        0xc agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/adc_18xx_43xx.o
+                0x1a00092a                Chip_ADC_SetResolution
+ *fill*         0x1a000936        0x2 ff
  .text.Chip_SetupCoreClock
-                0x1a0007e8      0x158 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/sysinit_18xx_43xx.o
-                0x1a0007e8                Chip_SetupCoreClock
+                0x1a000938      0x158 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/sysinit_18xx_43xx.o
+                0x1a000938                Chip_SetupCoreClock
  .text.SystemCoreClockUpdate
-                0x1a000940       0x14 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/chip_18xx_43xx.o
-                0x1a000940                SystemCoreClockUpdate
+                0x1a000a90       0x14 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/chip_18xx_43xx.o
+                0x1a000a90                SystemCoreClockUpdate
  .text.pll_calc_divs
-                0x1a000954       0xa0 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/clock_18xx_43xx.o
+                0x1a000aa4       0xa0 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/clock_18xx_43xx.o
  .text.pll_get_frac
-                0x1a0009f4      0x10c agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/clock_18xx_43xx.o
+                0x1a000b44      0x10c agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/clock_18xx_43xx.o
  .text.Chip_Clock_FindBaseClock
-                0x1a000b00       0x4c agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/clock_18xx_43xx.o
+                0x1a000c50       0x4c agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/clock_18xx_43xx.o
  .text.Chip_Clock_EnableCrystal
-                0x1a000b4c       0x4c agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/clock_18xx_43xx.o
-                0x1a000b4c                Chip_Clock_EnableCrystal
+                0x1a000c9c       0x4c agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/clock_18xx_43xx.o
+                0x1a000c9c                Chip_Clock_EnableCrystal
  .text.Chip_Clock_GetDividerSource
-                0x1a000b98       0x1c agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/clock_18xx_43xx.o
-                0x1a000b98                Chip_Clock_GetDividerSource
+                0x1a000ce8       0x1c agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/clock_18xx_43xx.o
+                0x1a000ce8                Chip_Clock_GetDividerSource
  .text.Chip_Clock_GetDividerDivisor
-                0x1a000bb4       0x1c agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/clock_18xx_43xx.o
-                0x1a000bb4                Chip_Clock_GetDividerDivisor
+                0x1a000d04       0x1c agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/clock_18xx_43xx.o
+                0x1a000d04                Chip_Clock_GetDividerDivisor
  .text.Chip_Clock_GetClockInputHz
-                0x1a000bd0       0xb8 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/clock_18xx_43xx.o
-                0x1a000bd0                Chip_Clock_GetClockInputHz
+                0x1a000d20       0xb8 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/clock_18xx_43xx.o
+                0x1a000d20                Chip_Clock_GetClockInputHz
  .text.Chip_Clock_CalcMainPLLValue
-                0x1a000c88       0x80 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/clock_18xx_43xx.o
-                0x1a000c88                Chip_Clock_CalcMainPLLValue
+                0x1a000dd8       0x80 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/clock_18xx_43xx.o
+                0x1a000dd8                Chip_Clock_CalcMainPLLValue
  .text.Chip_Clock_GetMainPLLHz
-                0x1a000d08       0x6c agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/clock_18xx_43xx.o
-                0x1a000d08                Chip_Clock_GetMainPLLHz
+                0x1a000e58       0x6c agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/clock_18xx_43xx.o
+                0x1a000e58                Chip_Clock_GetMainPLLHz
  .text.Chip_Clock_GetDivRate
-                0x1a000d74       0x22 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/clock_18xx_43xx.o
- *fill*         0x1a000d96        0x2 ff
+                0x1a000ec4       0x22 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/clock_18xx_43xx.o
+ *fill*         0x1a000ee6        0x2 ff
  .text.Chip_Clock_SetBaseClock
-                0x1a000d98       0x58 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/clock_18xx_43xx.o
-                0x1a000d98                Chip_Clock_SetBaseClock
+                0x1a000ee8       0x58 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/clock_18xx_43xx.o
+                0x1a000ee8                Chip_Clock_SetBaseClock
  .text.Chip_Clock_GetBaseClock
-                0x1a000df0       0x26 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/clock_18xx_43xx.o
-                0x1a000df0                Chip_Clock_GetBaseClock
+                0x1a000f40       0x26 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/clock_18xx_43xx.o
+                0x1a000f40                Chip_Clock_GetBaseClock
  .text.Chip_Clock_GetBaseClocktHz
-                0x1a000e16        0xc agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/clock_18xx_43xx.o
-                0x1a000e16                Chip_Clock_GetBaseClocktHz
- *fill*         0x1a000e22        0x2 ff
+                0x1a000f66        0xc agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/clock_18xx_43xx.o
+                0x1a000f66                Chip_Clock_GetBaseClocktHz
+ *fill*         0x1a000f72        0x2 ff
  .text.Chip_Clock_EnableOpts
-                0x1a000e24       0x3c agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/clock_18xx_43xx.o
-                0x1a000e24                Chip_Clock_EnableOpts
+                0x1a000f74       0x3c agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/clock_18xx_43xx.o
+                0x1a000f74                Chip_Clock_EnableOpts
  .text.Chip_Clock_Enable
-                0x1a000e60       0x34 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/clock_18xx_43xx.o
-                0x1a000e60                Chip_Clock_Enable
+                0x1a000fb0       0x34 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/clock_18xx_43xx.o
+                0x1a000fb0                Chip_Clock_Enable
  .text.Chip_Clock_GetRate
-                0x1a000e94       0x4c agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/clock_18xx_43xx.o
-                0x1a000e94                Chip_Clock_GetRate
+                0x1a000fe4       0x4c agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/clock_18xx_43xx.o
+                0x1a000fe4                Chip_Clock_GetRate
  .text.Chip_UART_GetIndex
-                0x1a000ee0       0x2c agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/uart_18xx_43xx.o
+                0x1a001030       0x2c agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/uart_18xx_43xx.o
  .text.Chip_UART_Init
-                0x1a000f0c       0x54 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/uart_18xx_43xx.o
-                0x1a000f0c                Chip_UART_Init
+                0x1a00105c       0x54 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/uart_18xx_43xx.o
+                0x1a00105c                Chip_UART_Init
  .text.Chip_UART_SetBaudFDR
-                0x1a000f60       0xdc agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/uart_18xx_43xx.o
-                0x1a000f60                Chip_UART_SetBaudFDR
+                0x1a0010b0       0xdc agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/uart_18xx_43xx.o
+                0x1a0010b0                Chip_UART_SetBaudFDR
  .text.SystemInit
-                0x1a00103c       0x38 agus/TP2/out/libs/lpc_open/lpc_startup/src/sysinit.o
-                0x1a00103c                SystemInit
+                0x1a00118c       0x38 agus/TP2/out/libs/lpc_open/lpc_startup/src/sysinit.o
+                0x1a00118c                SystemInit
  .text.SysTick_Handler
-                0x1a001074       0x2c agus/TP2/out/libs/sapi/sapi_v0.6.2/soc/peripherals/src/sapi_tick.o
-                0x1a001074                SysTick_Handler
+                0x1a0011c4       0x2c agus/TP2/out/libs/sapi/sapi_v0.6.2/soc/peripherals/src/sapi_tick.o
+                0x1a0011c4                SysTick_Handler
  .text.USB0_IRQHandler
-                0x1a0010a0       0x1c agus/TP2/out/libs/sapi/sapi_v0.6.2/soc/peripherals/usb/device/src/sapi_usb_device.o
-                0x1a0010a0                USB0_IRQHandler
- .text          0x1a0010bc       0x30 c:/users/agus_/downloads/ciaa_software_1.1-win/tools/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
-                0x1a0010bc                __aeabi_uldivmod
+                0x1a0011f0       0x1c agus/TP2/out/libs/sapi/sapi_v0.6.2/soc/peripherals/usb/device/src/sapi_usb_device.o
+                0x1a0011f0                USB0_IRQHandler
+ .text          0x1a00120c       0x30 c:/users/agus_/downloads/ciaa_software_1.1-win/tools/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+                0x1a00120c                __aeabi_uldivmod
  .text.__udivmoddi4
-                0x1a0010ec      0x2d0 c:/users/agus_/downloads/ciaa_software_1.1-win/tools/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
-                0x1a0010ec                __udivmoddi4
- .text          0x1a0013bc        0x4 c:/users/agus_/downloads/ciaa_software_1.1-win/tools/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
-                0x1a0013bc                __aeabi_idiv0
-                0x1a0013bc                __aeabi_ldiv0
+                0x1a00123c      0x2d0 c:/users/agus_/downloads/ciaa_software_1.1-win/tools/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+                0x1a00123c                __udivmoddi4
+ .text          0x1a00150c        0x4 c:/users/agus_/downloads/ciaa_software_1.1-win/tools/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+                0x1a00150c                __aeabi_idiv0
+                0x1a00150c                __aeabi_ldiv0
  .text.__libc_init_array
-                0x1a0013c0       0x48 c:/users/agus_/downloads/ciaa_software_1.1-win/tools/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-init.o)
-                0x1a0013c0                __libc_init_array
- .text.memset   0x1a001408       0xa0 c:/users/agus_/downloads/ciaa_software_1.1-win/tools/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-memset.o)
-                0x1a001408                memset
+                0x1a001510       0x48 c:/users/agus_/downloads/ciaa_software_1.1-win/tools/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-init.o)
+                0x1a001510                __libc_init_array
+ .text.memset   0x1a001558       0xa0 c:/users/agus_/downloads/ciaa_software_1.1-win/tools/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-memset.o)
+                0x1a001558                memset
  *(.rodata .rodata.* .constdata .constdata.*)
+ .rodata.myGpioPinInit
+                0x1a0015f8       0xe6 agus/TP2/out/agus/TP2/src/gpio.o
+                0x1a0015f8                myGpioPinInit
+ *fill*         0x1a0016de        0x2 ff
  .rodata.InitClkStates
-                0x1a0014a8        0x4 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+                0x1a0016e0        0x4 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
  .rodata.pinmuxing
-                0x1a0014ac       0x74 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+                0x1a0016e4       0x74 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
  .rodata.ExtRateIn
-                0x1a001520        0x4 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board.o
-                0x1a001520                ExtRateIn
+                0x1a001758        0x4 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board.o
+                0x1a001758                ExtRateIn
  .rodata.GpioButtons
-                0x1a001524        0x8 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board.o
+                0x1a00175c        0x8 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board.o
  .rodata.GpioLeds
-                0x1a00152c        0xc agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board.o
+                0x1a001764        0xc agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board.o
  .rodata.GpioPorts
-                0x1a001538       0x12 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board.o
- *fill*         0x1a00154a        0x2 ff
+                0x1a001770       0x12 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board.o
+ *fill*         0x1a001782        0x2 ff
  .rodata.OscRateIn
-                0x1a00154c        0x4 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board.o
-                0x1a00154c                OscRateIn
+                0x1a001784        0x4 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board.o
+                0x1a001784                OscRateIn
  .rodata.InitClkStates
-                0x1a001550       0x48 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/sysinit_18xx_43xx.o
- .rodata        0x1a001598        0x4 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/clock_18xx_43xx.o
+                0x1a001788       0x48 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/sysinit_18xx_43xx.o
+ .rodata        0x1a0017d0        0x4 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/clock_18xx_43xx.o
  .rodata.Chip_Clock_SetDivider.str1.4
-                0x1a00159c        0x8 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/clock_18xx_43xx.o
+                0x1a0017d4        0x8 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/clock_18xx_43xx.o
                                   0x6 (size before relaxing)
  .rodata.periph_to_base
-                0x1a0015a4       0x6c agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/clock_18xx_43xx.o
+                0x1a0017dc       0x6c agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/clock_18xx_43xx.o
  .rodata.UART_BClock
-                0x1a001610        0x8 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/uart_18xx_43xx.o
+                0x1a001848        0x8 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/uart_18xx_43xx.o
  .rodata.UART_PClock
-                0x1a001618        0x8 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/uart_18xx_43xx.o
-                0x1a001620                . = ALIGN (0x4)
+                0x1a001850        0x8 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/uart_18xx_43xx.o
+                0x1a001858                . = ALIGN (0x4)
 
-.glue_7         0x1a001620        0x0
- .glue_7        0x1a001620        0x0 linker stubs
+.glue_7         0x1a001858        0x0
+ .glue_7        0x1a001858        0x0 linker stubs
 
-.glue_7t        0x1a001620        0x0
- .glue_7t       0x1a001620        0x0 linker stubs
+.glue_7t        0x1a001858        0x0
+ .glue_7t       0x1a001858        0x0 linker stubs
 
-.vfp11_veneer   0x1a001620        0x0
- .vfp11_veneer  0x1a001620        0x0 linker stubs
+.vfp11_veneer   0x1a001858        0x0
+ .vfp11_veneer  0x1a001858        0x0 linker stubs
 
-.v4_bx          0x1a001620        0x0
- .v4_bx         0x1a001620        0x0 linker stubs
+.v4_bx          0x1a001858        0x0
+ .v4_bx         0x1a001858        0x0 linker stubs
 
-.iplt           0x1a001620        0x0
- .iplt          0x1a001620        0x0 agus/TP2/out/agus/TP2/src/TP2.o
-                0x1a001620                . = ALIGN (0x4)
+.iplt           0x1a001858        0x0
+ .iplt          0x1a001858        0x0 agus/TP2/out/agus/TP2/src/TP2.o
+                0x1a001858                . = ALIGN (0x4)
 
-.preinit_array  0x1a001620        0x0
-                0x1a001620                PROVIDE (__preinit_array_start = .)
+.preinit_array  0x1a001858        0x0
+                0x1a001858                PROVIDE (__preinit_array_start = .)
  *(.preinit_array*)
-                0x1a001620                PROVIDE (__preinit_array_end = .)
+                0x1a001858                PROVIDE (__preinit_array_end = .)
 
-.init_array     0x1a001620        0x4
-                0x1a001620                PROVIDE (__init_array_start = .)
+.init_array     0x1a001858        0x4
+                0x1a001858                PROVIDE (__init_array_start = .)
  *(SORT_BY_NAME(.init_array.*))
  *(.init_array*)
- .init_array    0x1a001620        0x4 agus/TP2/out/libs/sys_newlib//src/system.o
-                0x1a001624                PROVIDE (__init_array_end = .)
-                0x1a001624                . = ALIGN (0x4)
+ .init_array    0x1a001858        0x4 agus/TP2/out/libs/sys_newlib//src/system.o
+                0x1a00185c                PROVIDE (__init_array_end = .)
+                0x1a00185c                . = ALIGN (0x4)
 
 .ARM.extab
  *(.ARM.extab* .gnu.linkonce.armextab.*)
-                0x1a001624                __exidx_start = .
+                0x1a00185c                __exidx_start = .
 
-.ARM.exidx      0x1a001624        0x8
+.ARM.exidx      0x1a00185c        0x8
  *(.ARM.exidx* .gnu.linkonce.armexidx.*)
  .ARM.exidx.text.__udivmoddi4
-                0x1a001624        0x8 c:/users/agus_/downloads/ciaa_software_1.1-win/tools/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
-                0x1a00162c                __exidx_end = .
-                0x1a00162c                _etext = .
+                0x1a00185c        0x8 c:/users/agus_/downloads/ciaa_software_1.1-win/tools/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+                0x1a001864                __exidx_end = .
+                0x1a001864                _etext = .
 
-.rel.dyn        0x1a00162c        0x0
- .rel.iplt      0x1a00162c        0x0 agus/TP2/out/agus/TP2/src/TP2.o
+.rel.dyn        0x1a001864        0x0
+ .rel.iplt      0x1a001864        0x0 agus/TP2/out/agus/TP2/src/TP2.o
 
-.data_RAM2      0x10080000        0x0 load address 0x1a00162c
+.data_RAM2      0x10080000        0x0 load address 0x1a001864
  FILL mask 0xff
  *(.ramfunc.$RAM2)
  *(.ramfunc.$RamLoc40)
@@ -19187,7 +19275,7 @@ END GROUP
  *(.data.$RamLoc40*)
                 0x10080000                . = ALIGN (0x4)
 
-.data_RAM3      0x20000000        0x0 load address 0x1a00162c
+.data_RAM3      0x20000000        0x0 load address 0x1a001864
  FILL mask 0xff
  *(.ramfunc.$RAM3)
  *(.ramfunc.$RamAHB32)
@@ -19195,7 +19283,7 @@ END GROUP
  *(.data.$RamAHB32*)
                 0x20000000                . = ALIGN (0x4)
 
-.data_RAM4      0x20008000        0x0 load address 0x1a00162c
+.data_RAM4      0x20008000        0x0 load address 0x1a001864
  FILL mask 0xff
  *(.ramfunc.$RAM4)
  *(.ramfunc.$RamAHB16)
@@ -19203,7 +19291,7 @@ END GROUP
  *(.data.$RamAHB16*)
                 0x20008000                . = ALIGN (0x4)
 
-.data_RAM5      0x2000c000        0x0 load address 0x1a00162c
+.data_RAM5      0x2000c000        0x0 load address 0x1a001864
  FILL mask 0xff
  *(.ramfunc.$RAM5)
  *(.ramfunc.$RamAHB_ETB16)
@@ -19217,7 +19305,7 @@ END GROUP
                 0x10000000                . = ALIGN (0x4)
                 0x10000000                _end_uninit_RESERVED = .
 
-.data           0x10000000       0x38 load address 0x1a00162c
+.data           0x10000000       0x38 load address 0x1a001864
  FILL mask 0xff
                 0x10000000                _data = .
  *(vtable)
@@ -19227,7 +19315,7 @@ END GROUP
                 0x10000038                . = ALIGN (0x4)
                 0x10000038                _edata = .
 
-.igot.plt       0x10000038        0x0 load address 0x1a001664
+.igot.plt       0x10000038        0x0 load address 0x1a00189c
  .igot.plt      0x10000038        0x0 agus/TP2/out/agus/TP2/src/TP2.o
 
 .bss_RAM2       0x10080000        0x0
@@ -19299,267 +19387,294 @@ END GROUP
                 0x10000060                _end_noinit = .
                 0x10000060                PROVIDE (_pvHeapStart = .)
                 0x10008000                PROVIDE (_vStackTop = (__top_RamLoc32 - 0x0))
-                0x53ff758a                PROVIDE (__valid_user_code_checksum = (0x0 - ((((((_vStackTop + (Reset_Handler + 0x1)) + (NMI_Handler + 0x1)) + (HardFault_Handler + 0x1)) + (DEFINED (MemManage_Handler)?MemManage_Handler:0x0 + 0x1)) + (DEFINED (BusFault_Handler)?BusFault_Handler:0x0 + 0x1)) + (DEFINED (UsageFault_Handler)?UsageFault_Handler:0x0 + 0x1))))
+                0x53ff743a                PROVIDE (__valid_user_code_checksum = (0x0 - ((((((_vStackTop + (Reset_Handler + 0x1)) + (NMI_Handler + 0x1)) + (HardFault_Handler + 0x1)) + (DEFINED (MemManage_Handler)?MemManage_Handler:0x0 + 0x1)) + (DEFINED (BusFault_Handler)?BusFault_Handler:0x0 + 0x1)) + (DEFINED (UsageFault_Handler)?UsageFault_Handler:0x0 + 0x1))))
 OUTPUT(agus/TP2/out/TP2.elf elf32-littlearm)
 
-.debug_info     0x00000000    0x1406e
- .debug_info    0x00000000      0x14a agus/TP2/out/agus/TP2/src/TP2.o
- .debug_info    0x0000014a      0x35d agus/TP2/out/libs/cmsis_core//src/armv7m_startup.o
- .debug_info    0x000004a7     0x10c3 agus/TP2/out/libs/sys_newlib//src/system.o
- .debug_info    0x0000156a     0x15d2 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_info    0x00002b3c     0x23f7 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board.o
- .debug_info    0x00004f33     0x1a33 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/ssp_18xx_43xx.o
- .debug_info    0x00006966     0x159b agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/i2c_18xx_43xx.o
- .debug_info    0x00007f01      0x232 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/gpio_18xx_43xx.o
- .debug_info    0x00008133      0xc0c agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/adc_18xx_43xx.o
- .debug_info    0x00008d3f      0xb39 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/sysinit_18xx_43xx.o
- .debug_info    0x00009878      0xc97 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/chip_18xx_43xx.o
- .debug_info    0x0000a50f     0x1b68 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/clock_18xx_43xx.o
- .debug_info    0x0000c077     0x1981 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/uart_18xx_43xx.o
- .debug_info    0x0000d9f8      0xe77 agus/TP2/out/libs/lpc_open/lpc_startup/src/vendor_interrupt.o
- .debug_info    0x0000e86f      0xc8b agus/TP2/out/libs/lpc_open/lpc_startup/src/sysinit.o
- .debug_info    0x0000f4fa       0x40 agus/TP2/out/libs/lpc_open/lpc_startup/src/crp.o
- .debug_info    0x0000f53a     0x15ae agus/TP2/out/libs/sapi/sapi_v0.6.2/soc/peripherals/src/sapi_tick.o
- .debug_info    0x00010ae8     0x3586 agus/TP2/out/libs/sapi/sapi_v0.6.2/soc/peripherals/usb/device/src/sapi_usb_device.o
+.debug_info     0x00000000    0x14fe9
+ .debug_info    0x00000000      0x2db agus/TP2/out/agus/TP2/src/TP2.o
+ .debug_info    0x000002db      0xdea agus/TP2/out/agus/TP2/src/gpio.o
+ .debug_info    0x000010c5      0x35d agus/TP2/out/libs/cmsis_core//src/armv7m_startup.o
+ .debug_info    0x00001422     0x10c3 agus/TP2/out/libs/sys_newlib//src/system.o
+ .debug_info    0x000024e5     0x15d2 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_info    0x00003ab7     0x23f7 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board.o
+ .debug_info    0x00005eae     0x1a33 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/ssp_18xx_43xx.o
+ .debug_info    0x000078e1     0x159b agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/i2c_18xx_43xx.o
+ .debug_info    0x00008e7c      0x232 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/gpio_18xx_43xx.o
+ .debug_info    0x000090ae      0xc0c agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/adc_18xx_43xx.o
+ .debug_info    0x00009cba      0xb39 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/sysinit_18xx_43xx.o
+ .debug_info    0x0000a7f3      0xc97 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/chip_18xx_43xx.o
+ .debug_info    0x0000b48a     0x1b68 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/clock_18xx_43xx.o
+ .debug_info    0x0000cff2     0x1981 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/uart_18xx_43xx.o
+ .debug_info    0x0000e973      0xe77 agus/TP2/out/libs/lpc_open/lpc_startup/src/vendor_interrupt.o
+ .debug_info    0x0000f7ea      0xc8b agus/TP2/out/libs/lpc_open/lpc_startup/src/sysinit.o
+ .debug_info    0x00010475       0x40 agus/TP2/out/libs/lpc_open/lpc_startup/src/crp.o
+ .debug_info    0x000104b5     0x15ae agus/TP2/out/libs/sapi/sapi_v0.6.2/soc/peripherals/src/sapi_tick.o
+ .debug_info    0x00011a63     0x3586 agus/TP2/out/libs/sapi/sapi_v0.6.2/soc/peripherals/usb/device/src/sapi_usb_device.o
 
-.debug_abbrev   0x00000000     0x30b5
- .debug_abbrev  0x00000000       0xa4 agus/TP2/out/agus/TP2/src/TP2.o
- .debug_abbrev  0x000000a4      0x127 agus/TP2/out/libs/cmsis_core//src/armv7m_startup.o
- .debug_abbrev  0x000001cb      0x301 agus/TP2/out/libs/sys_newlib//src/system.o
- .debug_abbrev  0x000004cc      0x352 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_abbrev  0x0000081e      0x512 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board.o
- .debug_abbrev  0x00000d30      0x38a agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/ssp_18xx_43xx.o
- .debug_abbrev  0x000010ba      0x3af agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/i2c_18xx_43xx.o
- .debug_abbrev  0x00001469      0x114 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/gpio_18xx_43xx.o
- .debug_abbrev  0x0000157d      0x219 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/adc_18xx_43xx.o
- .debug_abbrev  0x00001796      0x245 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/sysinit_18xx_43xx.o
- .debug_abbrev  0x000019db      0x1ee agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/chip_18xx_43xx.o
- .debug_abbrev  0x00001bc9      0x3ef agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/clock_18xx_43xx.o
- .debug_abbrev  0x00001fb8      0x42c agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/uart_18xx_43xx.o
- .debug_abbrev  0x000023e4      0x226 agus/TP2/out/libs/lpc_open/lpc_startup/src/vendor_interrupt.o
- .debug_abbrev  0x0000260a      0x260 agus/TP2/out/libs/lpc_open/lpc_startup/src/sysinit.o
- .debug_abbrev  0x0000286a       0x38 agus/TP2/out/libs/lpc_open/lpc_startup/src/crp.o
- .debug_abbrev  0x000028a2      0x3cb agus/TP2/out/libs/sapi/sapi_v0.6.2/soc/peripherals/src/sapi_tick.o
- .debug_abbrev  0x00002c6d      0x448 agus/TP2/out/libs/sapi/sapi_v0.6.2/soc/peripherals/usb/device/src/sapi_usb_device.o
+.debug_abbrev   0x00000000     0x3391
+ .debug_abbrev  0x00000000      0x111 agus/TP2/out/agus/TP2/src/TP2.o
+ .debug_abbrev  0x00000111      0x26f agus/TP2/out/agus/TP2/src/gpio.o
+ .debug_abbrev  0x00000380      0x127 agus/TP2/out/libs/cmsis_core//src/armv7m_startup.o
+ .debug_abbrev  0x000004a7      0x301 agus/TP2/out/libs/sys_newlib//src/system.o
+ .debug_abbrev  0x000007a8      0x352 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_abbrev  0x00000afa      0x512 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board.o
+ .debug_abbrev  0x0000100c      0x38a agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/ssp_18xx_43xx.o
+ .debug_abbrev  0x00001396      0x3af agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/i2c_18xx_43xx.o
+ .debug_abbrev  0x00001745      0x114 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/gpio_18xx_43xx.o
+ .debug_abbrev  0x00001859      0x219 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/adc_18xx_43xx.o
+ .debug_abbrev  0x00001a72      0x245 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/sysinit_18xx_43xx.o
+ .debug_abbrev  0x00001cb7      0x1ee agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/chip_18xx_43xx.o
+ .debug_abbrev  0x00001ea5      0x3ef agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/clock_18xx_43xx.o
+ .debug_abbrev  0x00002294      0x42c agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/uart_18xx_43xx.o
+ .debug_abbrev  0x000026c0      0x226 agus/TP2/out/libs/lpc_open/lpc_startup/src/vendor_interrupt.o
+ .debug_abbrev  0x000028e6      0x260 agus/TP2/out/libs/lpc_open/lpc_startup/src/sysinit.o
+ .debug_abbrev  0x00002b46       0x38 agus/TP2/out/libs/lpc_open/lpc_startup/src/crp.o
+ .debug_abbrev  0x00002b7e      0x3cb agus/TP2/out/libs/sapi/sapi_v0.6.2/soc/peripherals/src/sapi_tick.o
+ .debug_abbrev  0x00002f49      0x448 agus/TP2/out/libs/sapi/sapi_v0.6.2/soc/peripherals/usb/device/src/sapi_usb_device.o
 
-.debug_aranges  0x00000000      0x7e0
- .debug_aranges
-                0x00000000       0x20 agus/TP2/out/agus/TP2/src/TP2.o
- .debug_aranges
-                0x00000020       0x90 agus/TP2/out/libs/cmsis_core//src/armv7m_startup.o
- .debug_aranges
-                0x000000b0       0xe0 agus/TP2/out/libs/sys_newlib//src/system.o
- .debug_aranges
-                0x00000190       0x30 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_aranges
-                0x000001c0       0xc0 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board.o
- .debug_aranges
-                0x00000280       0xa0 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/ssp_18xx_43xx.o
- .debug_aranges
-                0x00000320       0xd8 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/i2c_18xx_43xx.o
- .debug_aranges
-                0x000003f8       0x28 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/gpio_18xx_43xx.o
- .debug_aranges
-                0x00000420       0x90 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/adc_18xx_43xx.o
- .debug_aranges
-                0x000004b0       0x38 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/sysinit_18xx_43xx.o
- .debug_aranges
-                0x000004e8       0x38 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/chip_18xx_43xx.o
- .debug_aranges
-                0x00000520      0x128 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/clock_18xx_43xx.o
- .debug_aranges
-                0x00000648       0xa8 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/uart_18xx_43xx.o
- .debug_aranges
-                0x000006f0       0x20 agus/TP2/out/libs/lpc_open/lpc_startup/src/vendor_interrupt.o
- .debug_aranges
-                0x00000710       0x20 agus/TP2/out/libs/lpc_open/lpc_startup/src/sysinit.o
- .debug_aranges
-                0x00000730       0x18 agus/TP2/out/libs/lpc_open/lpc_startup/src/crp.o
- .debug_aranges
-                0x00000748       0x48 agus/TP2/out/libs/sapi/sapi_v0.6.2/soc/peripherals/src/sapi_tick.o
- .debug_aranges
-                0x00000790       0x50 agus/TP2/out/libs/sapi/sapi_v0.6.2/soc/peripherals/usb/device/src/sapi_usb_device.o
+.debug_loc      0x00000000     0x656f
+ .debug_loc     0x00000000       0x23 agus/TP2/out/agus/TP2/src/TP2.o
+ .debug_loc     0x00000023      0x3cb agus/TP2/out/agus/TP2/src/gpio.o
+ .debug_loc     0x000003ee      0x282 agus/TP2/out/libs/cmsis_core//src/armv7m_startup.o
+ .debug_loc     0x00000670      0x653 agus/TP2/out/libs/sys_newlib//src/system.o
+ .debug_loc     0x00000cc3      0x10f agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_loc     0x00000dd2      0x659 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board.o
+ .debug_loc     0x0000142b      0xfd3 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/ssp_18xx_43xx.o
+ .debug_loc     0x000023fe      0xe82 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/i2c_18xx_43xx.o
+ .debug_loc     0x00003280      0x738 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/adc_18xx_43xx.o
+ .debug_loc     0x000039b8      0x1e2 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/sysinit_18xx_43xx.o
+ .debug_loc     0x00003b9a     0x1505 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/clock_18xx_43xx.o
+ .debug_loc     0x0000509f      0xf38 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/uart_18xx_43xx.o
+ .debug_loc     0x00005fd7       0x15 agus/TP2/out/libs/lpc_open/lpc_startup/src/sysinit.o
+ .debug_loc     0x00005fec      0x1a3 agus/TP2/out/libs/sapi/sapi_v0.6.2/soc/peripherals/src/sapi_tick.o
+ .debug_loc     0x0000618f      0x3e0 agus/TP2/out/libs/sapi/sapi_v0.6.2/soc/peripherals/usb/device/src/sapi_usb_device.o
 
-.debug_ranges   0x00000000      0x7f8
- .debug_ranges  0x00000000       0x10 agus/TP2/out/agus/TP2/src/TP2.o
- .debug_ranges  0x00000010       0x80 agus/TP2/out/libs/cmsis_core//src/armv7m_startup.o
- .debug_ranges  0x00000090       0xd0 agus/TP2/out/libs/sys_newlib//src/system.o
- .debug_ranges  0x00000160       0x50 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_ranges  0x000001b0       0xf8 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board.o
- .debug_ranges  0x000002a8       0xc0 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/ssp_18xx_43xx.o
- .debug_ranges  0x00000368       0xc8 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/i2c_18xx_43xx.o
- .debug_ranges  0x00000430       0x18 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/gpio_18xx_43xx.o
- .debug_ranges  0x00000448       0x80 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/adc_18xx_43xx.o
- .debug_ranges  0x000004c8       0x28 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/sysinit_18xx_43xx.o
- .debug_ranges  0x000004f0       0x28 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/chip_18xx_43xx.o
- .debug_ranges  0x00000518      0x198 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/clock_18xx_43xx.o
- .debug_ranges  0x000006b0       0xb0 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/uart_18xx_43xx.o
- .debug_ranges  0x00000760       0x10 agus/TP2/out/libs/lpc_open/lpc_startup/src/vendor_interrupt.o
- .debug_ranges  0x00000770       0x10 agus/TP2/out/libs/lpc_open/lpc_startup/src/sysinit.o
- .debug_ranges  0x00000780       0x38 agus/TP2/out/libs/sapi/sapi_v0.6.2/soc/peripherals/src/sapi_tick.o
- .debug_ranges  0x000007b8       0x40 agus/TP2/out/libs/sapi/sapi_v0.6.2/soc/peripherals/usb/device/src/sapi_usb_device.o
+.debug_aranges  0x00000000      0x820
+ .debug_aranges
+                0x00000000       0x28 agus/TP2/out/agus/TP2/src/TP2.o
+ .debug_aranges
+                0x00000028       0x38 agus/TP2/out/agus/TP2/src/gpio.o
+ .debug_aranges
+                0x00000060       0x90 agus/TP2/out/libs/cmsis_core//src/armv7m_startup.o
+ .debug_aranges
+                0x000000f0       0xe0 agus/TP2/out/libs/sys_newlib//src/system.o
+ .debug_aranges
+                0x000001d0       0x30 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_aranges
+                0x00000200       0xc0 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board.o
+ .debug_aranges
+                0x000002c0       0xa0 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/ssp_18xx_43xx.o
+ .debug_aranges
+                0x00000360       0xd8 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/i2c_18xx_43xx.o
+ .debug_aranges
+                0x00000438       0x28 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/gpio_18xx_43xx.o
+ .debug_aranges
+                0x00000460       0x90 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/adc_18xx_43xx.o
+ .debug_aranges
+                0x000004f0       0x38 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/sysinit_18xx_43xx.o
+ .debug_aranges
+                0x00000528       0x38 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/chip_18xx_43xx.o
+ .debug_aranges
+                0x00000560      0x128 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/clock_18xx_43xx.o
+ .debug_aranges
+                0x00000688       0xa8 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/uart_18xx_43xx.o
+ .debug_aranges
+                0x00000730       0x20 agus/TP2/out/libs/lpc_open/lpc_startup/src/vendor_interrupt.o
+ .debug_aranges
+                0x00000750       0x20 agus/TP2/out/libs/lpc_open/lpc_startup/src/sysinit.o
+ .debug_aranges
+                0x00000770       0x18 agus/TP2/out/libs/lpc_open/lpc_startup/src/crp.o
+ .debug_aranges
+                0x00000788       0x48 agus/TP2/out/libs/sapi/sapi_v0.6.2/soc/peripherals/src/sapi_tick.o
+ .debug_aranges
+                0x000007d0       0x50 agus/TP2/out/libs/sapi/sapi_v0.6.2/soc/peripherals/usb/device/src/sapi_usb_device.o
 
-.debug_macro    0x00000000     0x8ff6
- .debug_macro   0x00000000       0x7f agus/TP2/out/agus/TP2/src/TP2.o
- .debug_macro   0x0000007f      0xab4 agus/TP2/out/agus/TP2/src/TP2.o
- .debug_macro   0x00000b33       0x22 agus/TP2/out/agus/TP2/src/TP2.o
- .debug_macro   0x00000b55       0x56 agus/TP2/out/agus/TP2/src/TP2.o
- .debug_macro   0x00000bab       0x51 agus/TP2/out/agus/TP2/src/TP2.o
- .debug_macro   0x00000bfc       0xef agus/TP2/out/agus/TP2/src/TP2.o
- .debug_macro   0x00000ceb       0x6a agus/TP2/out/agus/TP2/src/TP2.o
- .debug_macro   0x00000d55      0x1df agus/TP2/out/agus/TP2/src/TP2.o
- .debug_macro   0x00000f34      0x16d agus/TP2/out/agus/TP2/src/TP2.o
- .debug_macro   0x000010a1       0x8e agus/TP2/out/agus/TP2/src/TP2.o
- .debug_macro   0x0000112f       0x1d agus/TP2/out/libs/cmsis_core//src/armv7m_startup.o
- .debug_macro   0x0000114c      0x16e agus/TP2/out/libs/sys_newlib//src/system.o
- .debug_macro   0x000012ba       0x58 agus/TP2/out/libs/sys_newlib//src/system.o
- .debug_macro   0x00001312       0x1f agus/TP2/out/libs/sys_newlib//src/system.o
- .debug_macro   0x00001331       0x43 agus/TP2/out/libs/sys_newlib//src/system.o
- .debug_macro   0x00001374       0x20 agus/TP2/out/libs/sys_newlib//src/system.o
- .debug_macro   0x00001394      0x18e agus/TP2/out/libs/sys_newlib//src/system.o
- .debug_macro   0x00001522       0x10 agus/TP2/out/libs/sys_newlib//src/system.o
- .debug_macro   0x00001532       0x35 agus/TP2/out/libs/sys_newlib//src/system.o
- .debug_macro   0x00001567       0x10 agus/TP2/out/libs/sys_newlib//src/system.o
- .debug_macro   0x00001577      0x241 agus/TP2/out/libs/sys_newlib//src/system.o
- .debug_macro   0x000017b8       0x10 agus/TP2/out/libs/sys_newlib//src/system.o
- .debug_macro   0x000017c8       0xb6 agus/TP2/out/libs/sys_newlib//src/system.o
- .debug_macro   0x0000187e      0x105 agus/TP2/out/libs/sys_newlib//src/system.o
- .debug_macro   0x00001983       0x16 agus/TP2/out/libs/sys_newlib//src/system.o
- .debug_macro   0x00001999      0x42b agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_macro   0x00001dc4       0x10 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_macro   0x00001dd4       0x22 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_macro   0x00001df6       0x73 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_macro   0x00001e69       0x22 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_macro   0x00001e8b       0x1c agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_macro   0x00001ea7       0x22 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_macro   0x00001ec9       0xdf agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_macro   0x00001fa8     0x102d agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_macro   0x00002fd5      0x11f agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_macro   0x000030f4      0x2c3 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_macro   0x000033b7      0x112 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_macro   0x000034c9       0x11 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_macro   0x000034da       0x2a agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_macro   0x00003504       0x16 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_macro   0x0000351a      0x2e6 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_macro   0x00003800       0x82 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_macro   0x00003882      0x13d agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_macro   0x000039bf      0x198 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_macro   0x00003b57       0x34 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_macro   0x00003b8b       0x58 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_macro   0x00003be3      0x236 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_macro   0x00003e19      0x572 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_macro   0x0000438b       0x16 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_macro   0x000043a1      0x18a agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_macro   0x0000452b       0x88 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_macro   0x000045b3      0x1b9 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_macro   0x0000476c      0x1da agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_macro   0x00004946       0x40 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_macro   0x00004986       0x1c agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_macro   0x000049a2       0x2e agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_macro   0x000049d0       0x2e agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_macro   0x000049fe       0x22 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_macro   0x00004a20      0x201 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_macro   0x00004c21       0xe0 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_macro   0x00004d01      0x34c agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_macro   0x0000504d       0xdc agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_macro   0x00005129       0xc4 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_macro   0x000051ed       0x8f agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_macro   0x0000527c       0x94 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_macro   0x00005310       0xb8 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_macro   0x000053c8       0x4c agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_macro   0x00005414       0x16 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_macro   0x0000542a      0x328 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_macro   0x00005752       0x3a agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_macro   0x0000578c       0xd0 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_macro   0x0000585c       0x18 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_macro   0x00005874       0x22 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_macro   0x00005896       0x40 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_macro   0x000058d6       0x64 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_macro   0x0000593a       0x16 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_macro   0x00005950       0x97 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_macro   0x000059e7      0x356 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_macro   0x00005d3d       0xf6 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_macro   0x00005e33       0x10 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_macro   0x00005e43       0x16 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_macro   0x00005e59      0x129 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_macro   0x00005f82       0x20 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_macro   0x00005fa2       0xee agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_macro   0x00006090      0x43d agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board.o
- .debug_macro   0x000064cd      0x315 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/ssp_18xx_43xx.o
- .debug_macro   0x000067e2      0x327 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/i2c_18xx_43xx.o
- .debug_macro   0x00006b09      0x315 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/gpio_18xx_43xx.o
- .debug_macro   0x00006e1e      0x315 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/adc_18xx_43xx.o
- .debug_macro   0x00007133      0x315 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/sysinit_18xx_43xx.o
- .debug_macro   0x00007448      0x315 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/chip_18xx_43xx.o
- .debug_macro   0x0000775d      0x31b agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/clock_18xx_43xx.o
- .debug_macro   0x00007a78      0x315 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/uart_18xx_43xx.o
- .debug_macro   0x00007d8d      0x437 agus/TP2/out/libs/lpc_open/lpc_startup/src/vendor_interrupt.o
- .debug_macro   0x000081c4      0x42b agus/TP2/out/libs/lpc_open/lpc_startup/src/sysinit.o
- .debug_macro   0x000085ef       0x17 agus/TP2/out/libs/lpc_open/lpc_startup/src/crp.o
- .debug_macro   0x00008606      0x48e agus/TP2/out/libs/sapi/sapi_v0.6.2/soc/peripherals/src/sapi_tick.o
- .debug_macro   0x00008a94      0x562 agus/TP2/out/libs/sapi/sapi_v0.6.2/soc/peripherals/usb/device/src/sapi_usb_device.o
+.debug_ranges   0x00000000      0x840
+ .debug_ranges  0x00000000       0x18 agus/TP2/out/agus/TP2/src/TP2.o
+ .debug_ranges  0x00000018       0x40 agus/TP2/out/agus/TP2/src/gpio.o
+ .debug_ranges  0x00000058       0x80 agus/TP2/out/libs/cmsis_core//src/armv7m_startup.o
+ .debug_ranges  0x000000d8       0xd0 agus/TP2/out/libs/sys_newlib//src/system.o
+ .debug_ranges  0x000001a8       0x50 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_ranges  0x000001f8       0xf8 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board.o
+ .debug_ranges  0x000002f0       0xc0 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/ssp_18xx_43xx.o
+ .debug_ranges  0x000003b0       0xc8 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/i2c_18xx_43xx.o
+ .debug_ranges  0x00000478       0x18 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/gpio_18xx_43xx.o
+ .debug_ranges  0x00000490       0x80 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/adc_18xx_43xx.o
+ .debug_ranges  0x00000510       0x28 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/sysinit_18xx_43xx.o
+ .debug_ranges  0x00000538       0x28 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/chip_18xx_43xx.o
+ .debug_ranges  0x00000560      0x198 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/clock_18xx_43xx.o
+ .debug_ranges  0x000006f8       0xb0 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/uart_18xx_43xx.o
+ .debug_ranges  0x000007a8       0x10 agus/TP2/out/libs/lpc_open/lpc_startup/src/vendor_interrupt.o
+ .debug_ranges  0x000007b8       0x10 agus/TP2/out/libs/lpc_open/lpc_startup/src/sysinit.o
+ .debug_ranges  0x000007c8       0x38 agus/TP2/out/libs/sapi/sapi_v0.6.2/soc/peripherals/src/sapi_tick.o
+ .debug_ranges  0x00000800       0x40 agus/TP2/out/libs/sapi/sapi_v0.6.2/soc/peripherals/usb/device/src/sapi_usb_device.o
 
-.debug_line     0x00000000     0xb5ef
- .debug_line    0x00000000      0x273 agus/TP2/out/agus/TP2/src/TP2.o
- .debug_line    0x00000273      0x267 agus/TP2/out/libs/cmsis_core//src/armv7m_startup.o
- .debug_line    0x000004da      0x69d agus/TP2/out/libs/sys_newlib//src/system.o
- .debug_line    0x00000b77      0x945 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_line    0x000014bc      0xdae agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board.o
- .debug_line    0x0000226a     0x1286 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/ssp_18xx_43xx.o
- .debug_line    0x000034f0     0x107f agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/i2c_18xx_43xx.o
- .debug_line    0x0000456f      0x74d agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/gpio_18xx_43xx.o
- .debug_line    0x00004cbc      0xac0 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/adc_18xx_43xx.o
- .debug_line    0x0000577c      0x95f agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/sysinit_18xx_43xx.o
- .debug_line    0x000060db      0x7d4 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/chip_18xx_43xx.o
- .debug_line    0x000068af     0x1478 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/clock_18xx_43xx.o
- .debug_line    0x00007d27      0xf0b agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/uart_18xx_43xx.o
- .debug_line    0x00008c32      0x85e agus/TP2/out/libs/lpc_open/lpc_startup/src/vendor_interrupt.o
- .debug_line    0x00009490      0x88a agus/TP2/out/libs/lpc_open/lpc_startup/src/sysinit.o
- .debug_line    0x00009d1a       0x44 agus/TP2/out/libs/lpc_open/lpc_startup/src/crp.o
- .debug_line    0x00009d5e      0xaf5 agus/TP2/out/libs/sapi/sapi_v0.6.2/soc/peripherals/src/sapi_tick.o
- .debug_line    0x0000a853      0xd9c agus/TP2/out/libs/sapi/sapi_v0.6.2/soc/peripherals/usb/device/src/sapi_usb_device.o
+.debug_macro    0x00000000     0x929b
+ .debug_macro   0x00000000       0x80 agus/TP2/out/agus/TP2/src/TP2.o
+ .debug_macro   0x00000080      0xab4 agus/TP2/out/agus/TP2/src/TP2.o
+ .debug_macro   0x00000b34       0x22 agus/TP2/out/agus/TP2/src/TP2.o
+ .debug_macro   0x00000b56       0x56 agus/TP2/out/agus/TP2/src/TP2.o
+ .debug_macro   0x00000bac       0x51 agus/TP2/out/agus/TP2/src/TP2.o
+ .debug_macro   0x00000bfd       0xef agus/TP2/out/agus/TP2/src/TP2.o
+ .debug_macro   0x00000cec       0x6a agus/TP2/out/agus/TP2/src/TP2.o
+ .debug_macro   0x00000d56      0x1df agus/TP2/out/agus/TP2/src/TP2.o
+ .debug_macro   0x00000f35      0x16d agus/TP2/out/agus/TP2/src/TP2.o
+ .debug_macro   0x000010a2      0x322 agus/TP2/out/agus/TP2/src/gpio.o
+ .debug_macro   0x000013c4       0x22 agus/TP2/out/agus/TP2/src/gpio.o
+ .debug_macro   0x000013e6       0x73 agus/TP2/out/agus/TP2/src/gpio.o
+ .debug_macro   0x00001459       0x10 agus/TP2/out/agus/TP2/src/gpio.o
+ .debug_macro   0x00001469       0x22 agus/TP2/out/agus/TP2/src/gpio.o
+ .debug_macro   0x0000148b       0x1c agus/TP2/out/agus/TP2/src/gpio.o
+ .debug_macro   0x000014a7       0x22 agus/TP2/out/agus/TP2/src/gpio.o
+ .debug_macro   0x000014c9       0xdf agus/TP2/out/agus/TP2/src/gpio.o
+ .debug_macro   0x000015a8     0x102d agus/TP2/out/agus/TP2/src/gpio.o
+ .debug_macro   0x000025d5      0x11f agus/TP2/out/agus/TP2/src/gpio.o
+ .debug_macro   0x000026f4      0x2c3 agus/TP2/out/agus/TP2/src/gpio.o
+ .debug_macro   0x000029b7      0x112 agus/TP2/out/agus/TP2/src/gpio.o
+ .debug_macro   0x00002ac9       0x11 agus/TP2/out/agus/TP2/src/gpio.o
+ .debug_macro   0x00002ada       0x2a agus/TP2/out/agus/TP2/src/gpio.o
+ .debug_macro   0x00002b04       0x16 agus/TP2/out/agus/TP2/src/gpio.o
+ .debug_macro   0x00002b1a      0x2e6 agus/TP2/out/agus/TP2/src/gpio.o
+ .debug_macro   0x00002e00       0x82 agus/TP2/out/agus/TP2/src/gpio.o
+ .debug_macro   0x00002e82      0x13d agus/TP2/out/agus/TP2/src/gpio.o
+ .debug_macro   0x00002fbf      0x198 agus/TP2/out/agus/TP2/src/gpio.o
+ .debug_macro   0x00003157       0x34 agus/TP2/out/agus/TP2/src/gpio.o
+ .debug_macro   0x0000318b       0x58 agus/TP2/out/agus/TP2/src/gpio.o
+ .debug_macro   0x000031e3      0x236 agus/TP2/out/agus/TP2/src/gpio.o
+ .debug_macro   0x00003419      0x572 agus/TP2/out/agus/TP2/src/gpio.o
+ .debug_macro   0x0000398b       0x16 agus/TP2/out/agus/TP2/src/gpio.o
+ .debug_macro   0x000039a1      0x18a agus/TP2/out/agus/TP2/src/gpio.o
+ .debug_macro   0x00003b2b       0x88 agus/TP2/out/agus/TP2/src/gpio.o
+ .debug_macro   0x00003bb3      0x1b9 agus/TP2/out/agus/TP2/src/gpio.o
+ .debug_macro   0x00003d6c      0x1da agus/TP2/out/agus/TP2/src/gpio.o
+ .debug_macro   0x00003f46       0x40 agus/TP2/out/agus/TP2/src/gpio.o
+ .debug_macro   0x00003f86       0x1c agus/TP2/out/agus/TP2/src/gpio.o
+ .debug_macro   0x00003fa2       0x2e agus/TP2/out/agus/TP2/src/gpio.o
+ .debug_macro   0x00003fd0       0x2e agus/TP2/out/agus/TP2/src/gpio.o
+ .debug_macro   0x00003ffe       0x22 agus/TP2/out/agus/TP2/src/gpio.o
+ .debug_macro   0x00004020      0x201 agus/TP2/out/agus/TP2/src/gpio.o
+ .debug_macro   0x00004221       0xe0 agus/TP2/out/agus/TP2/src/gpio.o
+ .debug_macro   0x00004301      0x34c agus/TP2/out/agus/TP2/src/gpio.o
+ .debug_macro   0x0000464d       0xdc agus/TP2/out/agus/TP2/src/gpio.o
+ .debug_macro   0x00004729       0xc4 agus/TP2/out/agus/TP2/src/gpio.o
+ .debug_macro   0x000047ed       0x8f agus/TP2/out/agus/TP2/src/gpio.o
+ .debug_macro   0x0000487c       0x94 agus/TP2/out/agus/TP2/src/gpio.o
+ .debug_macro   0x00004910       0xb8 agus/TP2/out/agus/TP2/src/gpio.o
+ .debug_macro   0x000049c8       0x4c agus/TP2/out/agus/TP2/src/gpio.o
+ .debug_macro   0x00004a14       0x16 agus/TP2/out/agus/TP2/src/gpio.o
+ .debug_macro   0x00004a2a      0x328 agus/TP2/out/agus/TP2/src/gpio.o
+ .debug_macro   0x00004d52       0x3a agus/TP2/out/agus/TP2/src/gpio.o
+ .debug_macro   0x00004d8c       0xd0 agus/TP2/out/agus/TP2/src/gpio.o
+ .debug_macro   0x00004e5c       0x18 agus/TP2/out/agus/TP2/src/gpio.o
+ .debug_macro   0x00004e74       0x22 agus/TP2/out/agus/TP2/src/gpio.o
+ .debug_macro   0x00004e96       0x40 agus/TP2/out/agus/TP2/src/gpio.o
+ .debug_macro   0x00004ed6       0x10 agus/TP2/out/agus/TP2/src/gpio.o
+ .debug_macro   0x00004ee6       0x1d agus/TP2/out/libs/cmsis_core//src/armv7m_startup.o
+ .debug_macro   0x00004f03      0x16e agus/TP2/out/libs/sys_newlib//src/system.o
+ .debug_macro   0x00005071       0x58 agus/TP2/out/libs/sys_newlib//src/system.o
+ .debug_macro   0x000050c9       0x1f agus/TP2/out/libs/sys_newlib//src/system.o
+ .debug_macro   0x000050e8       0x43 agus/TP2/out/libs/sys_newlib//src/system.o
+ .debug_macro   0x0000512b       0x20 agus/TP2/out/libs/sys_newlib//src/system.o
+ .debug_macro   0x0000514b      0x18e agus/TP2/out/libs/sys_newlib//src/system.o
+ .debug_macro   0x000052d9       0x10 agus/TP2/out/libs/sys_newlib//src/system.o
+ .debug_macro   0x000052e9       0x35 agus/TP2/out/libs/sys_newlib//src/system.o
+ .debug_macro   0x0000531e       0x10 agus/TP2/out/libs/sys_newlib//src/system.o
+ .debug_macro   0x0000532e      0x241 agus/TP2/out/libs/sys_newlib//src/system.o
+ .debug_macro   0x0000556f       0x10 agus/TP2/out/libs/sys_newlib//src/system.o
+ .debug_macro   0x0000557f       0xb6 agus/TP2/out/libs/sys_newlib//src/system.o
+ .debug_macro   0x00005635      0x105 agus/TP2/out/libs/sys_newlib//src/system.o
+ .debug_macro   0x0000573a       0x16 agus/TP2/out/libs/sys_newlib//src/system.o
+ .debug_macro   0x00005750      0x42b agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_macro   0x00005b7b       0x64 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_macro   0x00005bdf       0x16 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_macro   0x00005bf5       0x97 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_macro   0x00005c8c      0x356 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_macro   0x00005fe2       0xf6 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_macro   0x000060d8       0x10 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_macro   0x000060e8       0x16 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_macro   0x000060fe      0x129 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_macro   0x00006227       0x20 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_macro   0x00006247       0xee agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_macro   0x00006335      0x43d agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board.o
+ .debug_macro   0x00006772      0x315 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/ssp_18xx_43xx.o
+ .debug_macro   0x00006a87      0x327 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/i2c_18xx_43xx.o
+ .debug_macro   0x00006dae      0x315 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/gpio_18xx_43xx.o
+ .debug_macro   0x000070c3      0x315 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/adc_18xx_43xx.o
+ .debug_macro   0x000073d8      0x315 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/sysinit_18xx_43xx.o
+ .debug_macro   0x000076ed      0x315 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/chip_18xx_43xx.o
+ .debug_macro   0x00007a02      0x31b agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/clock_18xx_43xx.o
+ .debug_macro   0x00007d1d      0x315 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/uart_18xx_43xx.o
+ .debug_macro   0x00008032      0x437 agus/TP2/out/libs/lpc_open/lpc_startup/src/vendor_interrupt.o
+ .debug_macro   0x00008469      0x42b agus/TP2/out/libs/lpc_open/lpc_startup/src/sysinit.o
+ .debug_macro   0x00008894       0x17 agus/TP2/out/libs/lpc_open/lpc_startup/src/crp.o
+ .debug_macro   0x000088ab      0x48e agus/TP2/out/libs/sapi/sapi_v0.6.2/soc/peripherals/src/sapi_tick.o
+ .debug_macro   0x00008d39      0x562 agus/TP2/out/libs/sapi/sapi_v0.6.2/soc/peripherals/usb/device/src/sapi_usb_device.o
 
-.debug_str      0x00000000    0x23f2b
- .debug_str     0x00000000     0x3f91 agus/TP2/out/agus/TP2/src/TP2.o
-                               0x41d0 (size before relaxing)
- .debug_str     0x00003f91      0x212 agus/TP2/out/libs/cmsis_core//src/armv7m_startup.o
+.debug_line     0x00000000     0xbf19
+ .debug_line    0x00000000      0x2c4 agus/TP2/out/agus/TP2/src/TP2.o
+ .debug_line    0x000002c4      0x8d9 agus/TP2/out/agus/TP2/src/gpio.o
+ .debug_line    0x00000b9d      0x267 agus/TP2/out/libs/cmsis_core//src/armv7m_startup.o
+ .debug_line    0x00000e04      0x69d agus/TP2/out/libs/sys_newlib//src/system.o
+ .debug_line    0x000014a1      0x945 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_line    0x00001de6      0xdae agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board.o
+ .debug_line    0x00002b94     0x1286 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/ssp_18xx_43xx.o
+ .debug_line    0x00003e1a     0x107f agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/i2c_18xx_43xx.o
+ .debug_line    0x00004e99      0x74d agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/gpio_18xx_43xx.o
+ .debug_line    0x000055e6      0xac0 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/adc_18xx_43xx.o
+ .debug_line    0x000060a6      0x95f agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/sysinit_18xx_43xx.o
+ .debug_line    0x00006a05      0x7d4 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/chip_18xx_43xx.o
+ .debug_line    0x000071d9     0x1478 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/clock_18xx_43xx.o
+ .debug_line    0x00008651      0xf0b agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/uart_18xx_43xx.o
+ .debug_line    0x0000955c      0x85e agus/TP2/out/libs/lpc_open/lpc_startup/src/vendor_interrupt.o
+ .debug_line    0x00009dba      0x88a agus/TP2/out/libs/lpc_open/lpc_startup/src/sysinit.o
+ .debug_line    0x0000a644       0x44 agus/TP2/out/libs/lpc_open/lpc_startup/src/crp.o
+ .debug_line    0x0000a688      0xaf5 agus/TP2/out/libs/sapi/sapi_v0.6.2/soc/peripherals/src/sapi_tick.o
+ .debug_line    0x0000b17d      0xd9c agus/TP2/out/libs/sapi/sapi_v0.6.2/soc/peripherals/usb/device/src/sapi_usb_device.o
+
+.debug_str      0x00000000    0x2414b
+ .debug_str     0x00000000     0x3f78 agus/TP2/out/agus/TP2/src/TP2.o
+                               0x415f (size before relaxing)
+ .debug_str     0x00003f78    0x13710 agus/TP2/out/agus/TP2/src/gpio.o
+                              0x175f3 (size before relaxing)
+ .debug_str     0x00017688      0x212 agus/TP2/out/libs/cmsis_core//src/armv7m_startup.o
                                0x3019 (size before relaxing)
- .debug_str     0x000041a3     0x3716 agus/TP2/out/libs/sys_newlib//src/system.o
+ .debug_str     0x0001789a     0x3716 agus/TP2/out/libs/sys_newlib//src/system.o
                                0x6d00 (size before relaxing)
- .debug_str     0x000078b9    0x140d5 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_str     0x0001afb0      0xc52 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
                               0x1b0ba (size before relaxing)
- .debug_str     0x0001b98e      0x95a agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board.o
+ .debug_str     0x0001bc02      0x911 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board.o
                               0x1b73f (size before relaxing)
- .debug_str     0x0001c2e8      0x438 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/ssp_18xx_43xx.o
+ .debug_str     0x0001c513      0x438 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/ssp_18xx_43xx.o
                               0x172f1 (size before relaxing)
- .debug_str     0x0001c720      0x584 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/i2c_18xx_43xx.o
+ .debug_str     0x0001c94b      0x584 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/i2c_18xx_43xx.o
                               0x17892 (size before relaxing)
- .debug_str     0x0001cca4       0x42 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/gpio_18xx_43xx.o
+ .debug_str     0x0001cecf       0x42 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/gpio_18xx_43xx.o
                               0x168b2 (size before relaxing)
- .debug_str     0x0001cce6      0x174 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/adc_18xx_43xx.o
+ .debug_str     0x0001cf11      0x174 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/adc_18xx_43xx.o
                               0x170fb (size before relaxing)
- .debug_str     0x0001ce5a      0x1cf agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/sysinit_18xx_43xx.o
+ .debug_str     0x0001d085      0x1cf agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/sysinit_18xx_43xx.o
                               0x175b1 (size before relaxing)
- .debug_str     0x0001d029      0x12c agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/chip_18xx_43xx.o
+ .debug_str     0x0001d254      0x12c agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/chip_18xx_43xx.o
                               0x17650 (size before relaxing)
- .debug_str     0x0001d155      0x3fc agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/clock_18xx_43xx.o
+ .debug_str     0x0001d380      0x3fc agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/clock_18xx_43xx.o
                               0x17b23 (size before relaxing)
- .debug_str     0x0001d551      0x36b agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/uart_18xx_43xx.o
+ .debug_str     0x0001d77c      0x360 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/uart_18xx_43xx.o
                               0x17760 (size before relaxing)
- .debug_str     0x0001d8bc       0x8c agus/TP2/out/libs/lpc_open/lpc_startup/src/vendor_interrupt.o
+ .debug_str     0x0001dadc       0x8c agus/TP2/out/libs/lpc_open/lpc_startup/src/vendor_interrupt.o
                               0x1ad49 (size before relaxing)
- .debug_str     0x0001d948       0xb9 agus/TP2/out/libs/lpc_open/lpc_startup/src/sysinit.o
+ .debug_str     0x0001db68       0xb9 agus/TP2/out/libs/lpc_open/lpc_startup/src/sysinit.o
                               0x1a38c (size before relaxing)
- .debug_str     0x0001da01       0x43 agus/TP2/out/libs/lpc_open/lpc_startup/src/crp.o
+ .debug_str     0x0001dc21       0x43 agus/TP2/out/libs/lpc_open/lpc_startup/src/crp.o
                                0x2e19 (size before relaxing)
- .debug_str     0x0001da44      0x821 agus/TP2/out/libs/sapi/sapi_v0.6.2/soc/peripherals/src/sapi_tick.o
+ .debug_str     0x0001dc64      0x821 agus/TP2/out/libs/sapi/sapi_v0.6.2/soc/peripherals/src/sapi_tick.o
                               0x1b5c6 (size before relaxing)
- .debug_str     0x0001e265     0x5cc6 agus/TP2/out/libs/sapi/sapi_v0.6.2/soc/peripherals/usb/device/src/sapi_usb_device.o
+ .debug_str     0x0001e485     0x5cc6 agus/TP2/out/libs/sapi/sapi_v0.6.2/soc/peripherals/usb/device/src/sapi_usb_device.o
                               0x21276 (size before relaxing)
 
 .comment        0x00000000       0x68
  .comment       0x00000000       0x68 agus/TP2/out/agus/TP2/src/TP2.o
                                  0x69 (size before relaxing)
+ .comment       0x00000068       0x69 agus/TP2/out/agus/TP2/src/gpio.o
  .comment       0x00000068       0x69 agus/TP2/out/libs/cmsis_core//src/armv7m_startup.o
  .comment       0x00000068       0x69 agus/TP2/out/libs/sys_newlib//src/system.o
  .comment       0x00000068       0x69 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
@@ -19583,87 +19698,75 @@ OUTPUT(agus/TP2/out/TP2.elf elf32-littlearm)
  .ARM.attributes
                 0x00000000       0x34 agus/TP2/out/agus/TP2/src/TP2.o
  .ARM.attributes
-                0x00000034       0x34 agus/TP2/out/libs/cmsis_core//src/armv7m_startup.o
+                0x00000034       0x34 agus/TP2/out/agus/TP2/src/gpio.o
  .ARM.attributes
-                0x00000068       0x34 agus/TP2/out/libs/sys_newlib//src/system.o
+                0x00000068       0x34 agus/TP2/out/libs/cmsis_core//src/armv7m_startup.o
  .ARM.attributes
-                0x0000009c       0x34 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+                0x0000009c       0x34 agus/TP2/out/libs/sys_newlib//src/system.o
  .ARM.attributes
-                0x000000d0       0x34 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board.o
+                0x000000d0       0x34 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
  .ARM.attributes
-                0x00000104       0x34 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/ssp_18xx_43xx.o
+                0x00000104       0x34 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board.o
  .ARM.attributes
-                0x00000138       0x34 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/i2c_18xx_43xx.o
+                0x00000138       0x34 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/ssp_18xx_43xx.o
  .ARM.attributes
-                0x0000016c       0x34 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/gpio_18xx_43xx.o
+                0x0000016c       0x34 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/i2c_18xx_43xx.o
  .ARM.attributes
-                0x000001a0       0x34 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/adc_18xx_43xx.o
+                0x000001a0       0x34 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/gpio_18xx_43xx.o
  .ARM.attributes
-                0x000001d4       0x34 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/sysinit_18xx_43xx.o
+                0x000001d4       0x34 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/adc_18xx_43xx.o
  .ARM.attributes
-                0x00000208       0x34 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/chip_18xx_43xx.o
+                0x00000208       0x34 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/sysinit_18xx_43xx.o
  .ARM.attributes
-                0x0000023c       0x34 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/clock_18xx_43xx.o
+                0x0000023c       0x34 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/chip_18xx_43xx.o
  .ARM.attributes
-                0x00000270       0x34 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/uart_18xx_43xx.o
+                0x00000270       0x34 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/clock_18xx_43xx.o
  .ARM.attributes
-                0x000002a4       0x34 agus/TP2/out/libs/lpc_open/lpc_startup/src/vendor_interrupt.o
+                0x000002a4       0x34 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/uart_18xx_43xx.o
  .ARM.attributes
-                0x000002d8       0x34 agus/TP2/out/libs/lpc_open/lpc_startup/src/sysinit.o
+                0x000002d8       0x34 agus/TP2/out/libs/lpc_open/lpc_startup/src/vendor_interrupt.o
  .ARM.attributes
-                0x0000030c       0x39 agus/TP2/out/libs/lpc_open/lpc_startup/src/crp.o
+                0x0000030c       0x34 agus/TP2/out/libs/lpc_open/lpc_startup/src/sysinit.o
  .ARM.attributes
-                0x00000345       0x34 agus/TP2/out/libs/sapi/sapi_v0.6.2/soc/peripherals/src/sapi_tick.o
+                0x00000340       0x39 agus/TP2/out/libs/lpc_open/lpc_startup/src/crp.o
  .ARM.attributes
-                0x00000379       0x34 agus/TP2/out/libs/sapi/sapi_v0.6.2/soc/peripherals/usb/device/src/sapi_usb_device.o
+                0x00000379       0x34 agus/TP2/out/libs/sapi/sapi_v0.6.2/soc/peripherals/src/sapi_tick.o
  .ARM.attributes
-                0x000003ad       0x1e c:/users/agus_/downloads/ciaa_software_1.1-win/tools/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+                0x000003ad       0x34 agus/TP2/out/libs/sapi/sapi_v0.6.2/soc/peripherals/usb/device/src/sapi_usb_device.o
  .ARM.attributes
-                0x000003cb       0x34 c:/users/agus_/downloads/ciaa_software_1.1-win/tools/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+                0x000003e1       0x1e c:/users/agus_/downloads/ciaa_software_1.1-win/tools/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
  .ARM.attributes
-                0x000003ff       0x1e c:/users/agus_/downloads/ciaa_software_1.1-win/tools/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+                0x000003ff       0x34 c:/users/agus_/downloads/ciaa_software_1.1-win/tools/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
  .ARM.attributes
-                0x0000041d       0x34 c:/users/agus_/downloads/ciaa_software_1.1-win/tools/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-init.o)
+                0x00000433       0x1e c:/users/agus_/downloads/ciaa_software_1.1-win/tools/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
  .ARM.attributes
-                0x00000451       0x34 c:/users/agus_/downloads/ciaa_software_1.1-win/tools/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-memset.o)
+                0x00000451       0x34 c:/users/agus_/downloads/ciaa_software_1.1-win/tools/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000485       0x34 c:/users/agus_/downloads/ciaa_software_1.1-win/tools/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-memset.o)
 
-.debug_frame    0x00000000     0x136c
- .debug_frame   0x00000000       0x20 agus/TP2/out/agus/TP2/src/TP2.o
- .debug_frame   0x00000020      0x114 agus/TP2/out/libs/cmsis_core//src/armv7m_startup.o
- .debug_frame   0x00000134      0x1d8 agus/TP2/out/libs/sys_newlib//src/system.o
- .debug_frame   0x0000030c       0x5c agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_frame   0x00000368      0x204 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board.o
- .debug_frame   0x0000056c      0x198 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/ssp_18xx_43xx.o
- .debug_frame   0x00000704      0x278 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/i2c_18xx_43xx.o
- .debug_frame   0x0000097c       0x30 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/gpio_18xx_43xx.o
- .debug_frame   0x000009ac      0x178 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/adc_18xx_43xx.o
- .debug_frame   0x00000b24       0x80 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/sysinit_18xx_43xx.o
- .debug_frame   0x00000ba4       0x70 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/chip_18xx_43xx.o
- .debug_frame   0x00000c14      0x31c agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/clock_18xx_43xx.o
- .debug_frame   0x00000f30      0x1f4 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/uart_18xx_43xx.o
- .debug_frame   0x00001124       0x20 agus/TP2/out/libs/lpc_open/lpc_startup/src/vendor_interrupt.o
- .debug_frame   0x00001144       0x28 agus/TP2/out/libs/lpc_open/lpc_startup/src/sysinit.o
- .debug_frame   0x0000116c       0x84 agus/TP2/out/libs/sapi/sapi_v0.6.2/soc/peripherals/src/sapi_tick.o
- .debug_frame   0x000011f0       0xb8 agus/TP2/out/libs/sapi/sapi_v0.6.2/soc/peripherals/usb/device/src/sapi_usb_device.o
- .debug_frame   0x000012a8       0x2c c:/users/agus_/downloads/ciaa_software_1.1-win/tools/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
- .debug_frame   0x000012d4       0x34 c:/users/agus_/downloads/ciaa_software_1.1-win/tools/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
- .debug_frame   0x00001308       0x2c c:/users/agus_/downloads/ciaa_software_1.1-win/tools/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-init.o)
- .debug_frame   0x00001334       0x38 c:/users/agus_/downloads/ciaa_software_1.1-win/tools/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-memset.o)
-
-.debug_loc      0x00000000     0x6181
- .debug_loc     0x00000000      0x282 agus/TP2/out/libs/cmsis_core//src/armv7m_startup.o
- .debug_loc     0x00000282      0x653 agus/TP2/out/libs/sys_newlib//src/system.o
- .debug_loc     0x000008d5      0x10f agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
- .debug_loc     0x000009e4      0x659 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board.o
- .debug_loc     0x0000103d      0xfd3 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/ssp_18xx_43xx.o
- .debug_loc     0x00002010      0xe82 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/i2c_18xx_43xx.o
- .debug_loc     0x00002e92      0x738 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/adc_18xx_43xx.o
- .debug_loc     0x000035ca      0x1e2 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/sysinit_18xx_43xx.o
- .debug_loc     0x000037ac     0x1505 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/clock_18xx_43xx.o
- .debug_loc     0x00004cb1      0xf38 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/uart_18xx_43xx.o
- .debug_loc     0x00005be9       0x15 agus/TP2/out/libs/lpc_open/lpc_startup/src/sysinit.o
- .debug_loc     0x00005bfe      0x1a3 agus/TP2/out/libs/sapi/sapi_v0.6.2/soc/peripherals/src/sapi_tick.o
- .debug_loc     0x00005da1      0x3e0 agus/TP2/out/libs/sapi/sapi_v0.6.2/soc/peripherals/usb/device/src/sapi_usb_device.o
+.debug_frame    0x00000000     0x140c
+ .debug_frame   0x00000000       0x44 agus/TP2/out/agus/TP2/src/TP2.o
+ .debug_frame   0x00000044       0x7c agus/TP2/out/agus/TP2/src/gpio.o
+ .debug_frame   0x000000c0      0x114 agus/TP2/out/libs/cmsis_core//src/armv7m_startup.o
+ .debug_frame   0x000001d4      0x1d8 agus/TP2/out/libs/sys_newlib//src/system.o
+ .debug_frame   0x000003ac       0x5c agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board_sysinit.o
+ .debug_frame   0x00000408      0x204 agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board.o
+ .debug_frame   0x0000060c      0x198 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/ssp_18xx_43xx.o
+ .debug_frame   0x000007a4      0x278 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/i2c_18xx_43xx.o
+ .debug_frame   0x00000a1c       0x30 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/gpio_18xx_43xx.o
+ .debug_frame   0x00000a4c      0x178 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/adc_18xx_43xx.o
+ .debug_frame   0x00000bc4       0x80 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/sysinit_18xx_43xx.o
+ .debug_frame   0x00000c44       0x70 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/chip_18xx_43xx.o
+ .debug_frame   0x00000cb4      0x31c agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/clock_18xx_43xx.o
+ .debug_frame   0x00000fd0      0x1f4 agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/uart_18xx_43xx.o
+ .debug_frame   0x000011c4       0x20 agus/TP2/out/libs/lpc_open/lpc_startup/src/vendor_interrupt.o
+ .debug_frame   0x000011e4       0x28 agus/TP2/out/libs/lpc_open/lpc_startup/src/sysinit.o
+ .debug_frame   0x0000120c       0x84 agus/TP2/out/libs/sapi/sapi_v0.6.2/soc/peripherals/src/sapi_tick.o
+ .debug_frame   0x00001290       0xb8 agus/TP2/out/libs/sapi/sapi_v0.6.2/soc/peripherals/usb/device/src/sapi_usb_device.o
+ .debug_frame   0x00001348       0x2c c:/users/agus_/downloads/ciaa_software_1.1-win/tools/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x00001374       0x34 c:/users/agus_/downloads/ciaa_software_1.1-win/tools/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+ .debug_frame   0x000013a8       0x2c c:/users/agus_/downloads/ciaa_software_1.1-win/tools/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-init.o)
+ .debug_frame   0x000013d4       0x38 c:/users/agus_/downloads/ciaa_software_1.1-win/tools/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-memset.o)
 
 Cross Reference Table
 
@@ -19884,6 +19987,7 @@ Chip_GPIO_DeInit                                  agus/TP2/out/libs/lpc_open/lpc
 Chip_GPIO_Init                                    agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/gpio_18xx_43xx.o
                                                   agus/TP2/out/libs/sapi/sapi_v0.6.2/soc/peripherals/src/sapi_gpio.o
                                                   agus/TP2/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board.o
+                                                  agus/TP2/out/agus/TP2/src/gpio.o
 Chip_I2CM_DeInit                                  agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/i2cm_18xx_43xx.o
 Chip_I2CM_Init                                    agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/i2cm_18xx_43xx.o
 Chip_I2CM_Read                                    agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/i2cm_18xx_43xx.o
@@ -20854,7 +20958,6 @@ esp8266GetWifiPass                                agus/TP2/out/libs/sapi/sapi_v0
 esp8266InitHttpServer                             agus/TP2/out/libs/sapi/sapi_v0.6.2/external_peripherals/wifi/esp8266_at/src/sapi_esp8266.o
 esp8266ReadHttpServer                             agus/TP2/out/libs/sapi/sapi_v0.6.2/external_peripherals/wifi/esp8266_at/src/sapi_esp8266.o
 esp8266WriteHttpServer                            agus/TP2/out/libs/sapi/sapi_v0.6.2/external_peripherals/wifi/esp8266_at/src/sapi_esp8266.o
-false                                             agus/TP2/out/agus/TP2/src/TP2.o
 fclose                                            c:/users/agus_/downloads/ciaa_software_1.1-win/tools/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-fclose.o)
                                                   agus/TP2/out/libs/sapi/sapi_v0.6.2/abstract_modules/src/sapi_stdio.o
 fflush                                            c:/users/agus_/downloads/ciaa_software_1.1-win/tools/arm-none-eabi-gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-fflush.o)
@@ -20878,6 +20981,7 @@ g_pfnVectors                                      agus/TP2/out/libs/cmsis_core//
                                                   agus/TP2/out/libs/lpc_open/lpc_startup/src/sysinit.o
 g_pfnVendorVectors                                agus/TP2/out/libs/lpc_open/lpc_startup/src/vendor_interrupt.o
 gamaChar                                          agus/TP2/out/libs/sapi/sapi_v0.6.2/external_peripherals/display/fonts/chars_5x8px/greek_chars_5x8px.o
+getScuGpioMode                                    agus/TP2/out/agus/TP2/src/gpio.o
 getSlaveIndex                                     agus/TP2/out/libs/lpc_open/lpc_chip_43xx/src/i2c_18xx_43xx.o
 globalStrConvertBuff                              agus/TP2/out/libs/sapi/sapi_v0.6.2/abstract_modules/src/sapi_convert.o
 gpioInit                                          agus/TP2/out/libs/sapi/sapi_v0.6.2/soc/peripherals/src/sapi_gpio.o
@@ -21051,8 +21155,12 @@ mpu9250GetMagZ_uT                                 agus/TP2/out/libs/sapi/sapi_v0
 mpu9250GetTemperature_C                           agus/TP2/out/libs/sapi/sapi_v0.6.2/external_peripherals/imu/mpu9250/src/sapi_imu_mpu9250.o
 mpu9250Init                                       agus/TP2/out/libs/sapi/sapi_v0.6.2/external_peripherals/imu/mpu9250/src/sapi_imu_mpu9250.o
 mpu9250Read                                       agus/TP2/out/libs/sapi/sapi_v0.6.2/external_peripherals/imu/mpu9250/src/sapi_imu_mpu9250.o
+myDelay                                           agus/TP2/out/agus/TP2/src/TP2.o
 myGpioInit                                        agus/TP2/out/agus/TP2/src/gpio.o
-myGpioPinInit                                     agus/TP2/out/agus/TP2/src/TP2.o
+                                                  agus/TP2/out/agus/TP2/src/TP2.o
+myGpioPinInit                                     agus/TP2/out/agus/TP2/src/gpio.o
+myGpioWrite                                       agus/TP2/out/agus/TP2/src/gpio.o
+                                                  agus/TP2/out/agus/TP2/src/TP2.o
 myPin2Conf                                        agus/TP2/out/agus/TP2/src/gpio.o
 my_ref_voltage                                    agus/TP2/out/libs/sapi/sapi_v0.6.2/external_peripherals/adc/adc128d818/src/sapi_adc128d818.o
 nuChar                                            agus/TP2/out/libs/sapi/sapi_v0.6.2/external_peripherals/display/fonts/chars_5x8px/greek_chars_5x8px.o
@@ -21190,7 +21298,6 @@ timer3CompareMatch0func                           agus/TP2/out/libs/sapi/sapi_v0
 timer3CompareMatch1func                           agus/TP2/out/libs/sapi/sapi_v0.6.2/external_peripherals/motor/servo/src/sapi_servo.o
 timer3CompareMatch2func                           agus/TP2/out/libs/sapi/sapi_v0.6.2/external_peripherals/motor/servo/src/sapi_servo.o
 timer3CompareMatch3func                           agus/TP2/out/libs/sapi/sapi_v0.6.2/external_peripherals/motor/servo/src/sapi_servo.o
-true                                              agus/TP2/out/agus/TP2/src/TP2.o
 uartInit                                          agus/TP2/out/libs/sapi/sapi_v0.6.2/soc/peripherals/src/sapi_uart.o
                                                   agus/TP2/out/libs/sapi/sapi_v0.6.2/external_peripherals/wifi/esp8266_at/src/sapi_esp8266.o
                                                   agus/TP2/out/libs/sapi/sapi_v0.6.2/abstract_modules/src/sapi_print.o
