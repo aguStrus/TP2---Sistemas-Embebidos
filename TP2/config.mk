@@ -9,4 +9,4 @@ USE_FPU=y
 # Libraries
 
 USE_LPCOPEN=y
-USE_SAPI=y
+USE_SAPI=n

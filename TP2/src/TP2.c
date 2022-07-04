@@ -7,9 +7,12 @@
 
 #include "TP2.h"
 #include "gpio.h"
+#include "my_delay.h"
+
+
 
 /*=====[Definition macros of private constants]==============================*/
-
+void myBoardInit();
 /*=====[Definitions of extern global variables]==============================*/
 
 /*=====[Definitions of public global variables]==============================*/
@@ -17,32 +20,18 @@
 /*=====[Definitions of private global variables]=============================*/
 
 /*=====[Main function, program entry point after power on or reset]==========*/
-void myDelay(uint64_t time){
-	for(int i = 0; i < time;i++){ }
-}
-
 
 int main( void )
 {
-   // ----- Setup -----------------------------------
-   // Read clock settings and update SystemCoreClock variable
-   SystemCoreClockUpdate();
-
-   cyclesCounterInit( SystemCoreClock );
+	myBoardInit();
 
 
-	//boardInit();
-	myGpioInit( 0, GPIO_ENABLE);
-
-	myGpioMap_t LED_ROJO = LED2;
+	myGpioMap_t LED_ROJO = myLED1;
 	myGpioInit(LED_ROJO, GPIO_OUTPUT);
-	myGpioWrite(LED_ROJO, 1);
 
    // ----- Repeat for ever -------------------------
    while( 1 ) {
-	   myGpioWrite(LED_ROJO, 0);
-	   delay(1000);
-	   myGpioWrite(LED_ROJO, 1);
+	   myGpioToggle(LED_ROJO);
 	   delay(1000);
    }
 
@@ -51,3 +40,14 @@ int main( void )
    // case of a PC program.
    return 0;
 }
+
+void myBoardInit(){
+	   // Read clock settings and update SystemCoreClock variable
+	   SystemCoreClockUpdate();
+
+	   SysTick_Config(SystemCoreClock / TICKRATE_HZ);
+
+	   myGpioInit( 0, GPIO_ENABLE);
+}
+
+

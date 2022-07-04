@@ -8,6 +8,8 @@
 #ifndef AGUS_TP2_INC_GPIO_H_
 #define AGUS_TP2_INC_GPIO_H_
 
+#include "defs.h"
+
 //libs/sapi/sapi_vX.X.X/soc/peripherals/inc/sapi_gpio
 /* Pin modes */
 /*
@@ -23,34 +25,36 @@ typedef enum {
    GPIO_INPUT_PULLUP, GPIO_INPUT_PULLDOWN,
    GPIO_INPUT_PULLUP_PULLDOWN,
    GPIO_ENABLE
-} myGpioInit_t;
+} gpioInit_t;
 
 typedef enum {
 
    // Configure GPIO pins for EDU-CIAA-NXP
-      VCC = -2, GND = -1,
-      // P1 header
-	  T_FIL1,    T_COL2,    T_COL0,    T_FIL2,    T_FIL3,    T_FIL0,    T_COL1,
-	  CAN_TD,    CAN_RD,    RS232_TXD, RS232_RXD,
-      // P2 header
-	  GPIO8,    GPIO7,    GPIO5,    GPIO3,    GPIO1,
-	  LCD1,     LCD2,     LCD3,     LCDRS,    LCD4,
-	  SPI_MISO,
-	  ENET_TXD1, ENET_TXD0, ENET_MDIO, ENET_CRS_DV, ENET_MDC, ENET_TXEN, ENET_RXD1,
-	  GPIO6,    GPIO4,    GPIO2,    GPIO0,
-	  LCDEN,
-	  SPI_MOSI,
-	  ENET_RXD0,
-      // Switches
-      // 36   37     38     39
-	  TEC1,    TEC2,    TEC3,    TEC4,
-      // Leds
-      // 40   41     42     43     44     45
-	  LEDR,    LEDG,    LEDB,    LED1,    LED2,    LED3,
+		myVCC = -2, myGND = -1,
+	      // P1 header
+		  myT_FIL1,    myT_COL2,    myT_COL0,    myT_FIL2,    myT_FIL3,    myT_FIL0,    myT_COL1,
+		  myCAN_TD,    myCAN_RD,    myRS232_TXD, myRS232_RXD,
+	      // P2 header
+		  myGPIO8,    myGPIO7,    myGPIO5,    myGPIO3,    myGPIO1,
+		  myLCD1,     myLCD2,     myLCD3,     myLCDRS,    myLCD4,
+		  mySPI_MISO,
+		  myENET_TXD1, myENET_TXD0, myENET_MDIO, myENET_CRS_DV, myENET_MDC, myENET_TXEN, myENET_RXD1,
+		  myGPIO6,    myGPIO4,    myGPIO2,    myGPIO0,
+		  myLCDEN,
+		  mySPI_MOSI,
+		  myENET_RXD0,
+	      // Switches
+	      // 36   37     38     39
+		  myTEC1,    myTEC2,    myTEC3,    myTEC4,
+	      // Leds
+	      // 40   41     42     43     44     45
+		  myLEDR,    myLEDG,    myLEDB,    myLED1,    myLED2,    myLED3,
 } myGpioMap_t;
 
 //Funciones
-void myGpioInit(myGpioMap_t pin, myGpioInit_t modo);
+void myGpioInit(myGpioMap_t pin, gpioInit_t modo);
 uint8_t myGpioWrite( myGpioMap_t pin, uint8_t estado);
+bool_t myGpioRead( myGpioMap_t pin );
+void myGpioToggle(myGpioMap_t pin );
 
 #endif /* AGUS_TP2_INC_GPIO_H_ */
